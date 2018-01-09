@@ -31,10 +31,6 @@ import seaborn as sb
 #===============================================================================
 from ExergyUtilities.util_inspect import get_self
 
-
-
-
-
 #===============================================================================
 #--- MAIN CODE
 #===============================================================================
@@ -44,7 +40,6 @@ pd.set_option('display.height', 500)
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
-
 
 def get_title(name):
     # Split the title from the name 
@@ -68,39 +63,72 @@ def title_map(title):
     else:
         return 2
 
-def run(excel_path):
-    #--- Get DFs, full and test
+def write_sheet():
+    pass
+
+def write_book(excel_path, df, sheet_name):
+    writer = pd.ExcelWriter(excel_path, engine='xlsxwriter')
+    df.to_excel(writer, sheet_name=sheet_name)
+    writer.save()
+    logging.debug("Wrote df to book at {}".format(excel_path))
+
+def write_pickle(pck_path, df):
+    df.to_pickle(pck_path, compression='infer')
+    logging.debug("Wrote df to pickle at {}".format(pck_path))
+
+ROOT_PATH = r"C:\EXPORT\\"
+EXCEL_PATH = r"C:\EXPORT\titanic.xlsx"
+
+def load_write_data():
     titanic_df = pd.read_csv("./data/train.csv")
     titanic_df.name = 'Titanic data'
     logging.debug("Loaded {}, {} rows".format(titanic_df.name, titanic_df.shape))
+    write_pickle(ROOT_PATH+"titanic_df.pck", titanic_df)
     
     test_df    = pd.read_csv("./data/test.csv")
     test_df.name = 'Titanic test data'
     logging.debug("Loaded {}, {}".format(test_df.name, test_df.shape))
+    write_pickle(ROOT_PATH+"test_df.pck", titanic_df)
+  
+def reload_data():
+    dfs = dict()
+    dfs['titan_df'] = pd.read_pickle(ROOT_PATH+"titanic_df.pck")
+    logging.debug("Loaded {}".format('titan_df'))
+
+    dfs['test_df'] = pd.read_pickle(ROOT_PATH+"test_df.pck")
+    logging.debug("Loaded {}, {}".format('test_df',dfs['test_df'].shape))
     
-    #--- Write original to Excel sheet
-    if 0:
-        writer = pd.ExcelWriter(excel_path, engine='xlsxwriter')
-        titanic_df.to_excel(writer, sheet_name='original')
-        writer.save()
-    #write_orig_excel()
+    return dfs
+
+def display_df(df):
+    print("\n*** DATAFRAME ***".format(df.name))
+    print(df)
+    print("\n")
+
+def run():
+    #--- Get DFs, full and test
+    #load_write_data()
     
-    #--- Print summary DF
-    if 0:
-        print("\n*** SUMMARY DF ***")
-        summary_df = pd.DataFrame(titanic_df.describe())
-        print(summary_df)
-        print("\n")
-        
-    #--- Print info DF
-    if 0:
-        print("\n*** INFO DF ***")
-        this_df = pd.DataFrame(titanic_df.info())
-        print(this_df)
-        print("\n")
-        # Some 'age' elements are missing
-        # Many 'cabin' elements are MISSING
-        # A couple 'embarked' are missing
+    #--- Reload & rename data
+    dfs = reload_data()
+    titanic_df = dfs['titan_df']
+    titanic_df.name = 'titanic_df'
+    test_df = dfs['test_df']
+    test_df.name = 'test_df'
+    
+    # Display
+    #display_df(titanic_df)
+    print(titanic_df.info())
+
+    # Some 'age' elements are missing
+    # Many 'cabin' elements are MISSING
+    # A couple 'embarked' are missing
+
+    #--- STEP 1: Discard 
+    
+    raise
+
+
     
     print(titanic_df['Embarked'])
     
@@ -217,6 +245,5 @@ def run(excel_path):
     
 
 if __name__ == "__main__":
-    excel_path = r"C:\EXPORT\titanic.xlsx"
-
-    run(excel_path)
+    run()
+    
