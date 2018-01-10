@@ -286,40 +286,33 @@ if __name__ == "__main__":
     # Reload the HTML and parse for links
     path_html_file = r"downloaded.html"
     urls = parse_song_links2(path_html_file)
-    #urls = parse_song_links_iter(path_html_file)
-    for u in urls:
-        #print("***")
-        #print("***")
-        #print(u)
-        #print(u.text)
-        #print(html.tostring(u))
-        #print(len(u))
-        try:
-            print(u.attrib['href'])
-        except:
-            print("No HREF here!")
-        #assert len(u) == 1
-        #for ch in u:
-        #    print("\n",ch)
-        #print(html.text(u))
-    print("DONE")
-    #print(u.attrib['href'])
     
+    # Filter the actual lyric links
     pattern = re.compile("^\.\./lyrics/")
-    #lyric_urls = [url for url in urls if pattern.match(str(url.attrib['href']))]
-    
     lyric_urls = list()
     for u in urls:
         try: 
             this_match = pattern.match(str(u.attrib['href']))
+            print(html.tostring(u),"\t\t\t\t\t\t\t",this_match)
         except:
+            this_path = False
             pass
-         
-        #print(url, u.attrib['href'],this_match)
         if this_match:
             lyric_urls.append(u)
      
     logging.debug("Filtered out {} lyric links (as etree nodes)".format(len(lyric_urls)))
+    
+    for elem in lyric_urls:
+        print(html.tostring(elem))
+        try: 
+            this_link = elem.attrib['href']
+        except:
+            raise
+        song_title = elem.text
+        logging.debug("Song {} at {}".format(song_title,this_link))
+    raise
+    
+    
     ##this_match = pattern.match(r"../lyrics/jamestaylor/ourtown.html")
     #if this_match:
     #    print("YES")
@@ -328,7 +321,6 @@ if __name__ == "__main__":
     
     
     #print(lyric_urls)
-    raise
 
     #print(html.tostring(urls[0]))
     #print(urls[0].text_content())
