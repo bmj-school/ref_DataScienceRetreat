@@ -32,6 +32,8 @@ import io as io
 import re
 from html.parser import HTMLParser
 import pickle
+import itertools
+
 
 #===============================================================================
 #--- SETUP external modules
@@ -41,6 +43,8 @@ import nltk
 from lxml import html
 from lxml import etree
 import lxml
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 #===============================================================================
 #--- SETUP Custom modules
 #===============================================================================
@@ -183,29 +187,34 @@ def analyze(lyrics):
     return(words)
 
 def get_words_by_band(directory):
-    cumulative_words = list()
+    #cumulative_words = list()
     words_song = dict()
     for filename in os.listdir(directory):
         
         if filename.endswith(".html"):
-            print(filename)
-            raise
+            song_name = filename.split('.')[0]
+            
             raw_lyrics = extract_lyrics_basic(directory+filename)
             cleaned_lyrics = clean_lyrics(raw_lyrics)
-            words = analyze(cleaned_lyrics)
-            cumulative_words = cumulative_words+words
+            words_song[song_name] = analyze(cleaned_lyrics)
+            #cumulative_words = cumulative_words+words
         else:
             logging.debug("Skipping {}".format(filename))
         
         logging.debug("Finished with {}".format(filename))
-    logging.debug("Found {} words by this band".format(len(cumulative_words)))
-
-    fdist = nltk.FreqDist(cumulative_words)
+        
+    logging.debug("Finished processing {} songs".format(len(words_song)))
+    
+    #logging.debug("Found {} words by this band".format(len(cumulative_words)))
+    
+    return words_song
+    
+    #fdist = nltk.FreqDist(cumulative_words)
     
     # Output top 50 words
-    for word, frequency in fdist.most_common(20):
-        print(u'{};{}'.format(word, frequency))
-    return cumulative_words
+    #for word, frequency in fdist.most_common(20):
+    #    print(u'{};{}'.format(word, frequency))
+    #return cumulative_words
 
 def load_all_bands():
     root_dir = r"C:\Users\jon\git\ref_DataScienceRetreat\lyrcis\songs"
@@ -237,29 +246,39 @@ def read_all_bands(in_file):
     loaded_dict = pickle.load(pickle_in)
     
     for band in loaded_dict:
-        print("Band: {} with {} words".format(band, len(loaded_dict[band])))
+        print("Band: {} with {} songs".format(band, len(loaded_dict[band])))
+        
     return loaded_dict
 
-
-def print_freqs(words,size):
-    fdist = nltk.FreqDist(words)
+def print_freqs(words_songs,size):
+    
+    all_words = [words_songs[song] for song in words_songs]
+    all_words = itertools.chain(*all_words)
+    all_words = list(all_words)
+    #print(all_words)
+    fdist = nltk.FreqDist(all_words)
     
     # Output top 50 words
     for word, frequency in fdist.most_common(size):
         print(u'{};{}'.format(word, frequency))
 
+def this_method(band_songs):
+    tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+    tfs = tfidf.fit_transform(token_dict.values())
+
 if __name__ == "__main__":
 
-    load_all_bands()
+    #load_all_bands()
     in_file = "all_lyrics.pickle"
 
     band_words = read_all_bands(in_file)
     
-    print_freqs(band_words['beatles'],10)
-    
     band_freqs = dict()
     for band in band_words:
+        print("***")
+        print("Frequency for {}".format(band))
         these_words = band_words[band]
-        
-        
+        print_freqs(these_words,10)
+
+    this_method(band_words['beatles'])
         
