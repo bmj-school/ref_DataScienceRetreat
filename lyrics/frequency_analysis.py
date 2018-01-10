@@ -217,6 +217,9 @@ def get_words_by_band(directory):
     #return cumulative_words
 
 def load_all_bands():
+    """Process each band directory to retrieve lyrics. Save the results to pickle. 
+    """
+    
     root_dir = r"C:\Users\jon\git\ref_DataScienceRetreat\lyrcis\songs"
     
     main_words_dict = dict()
@@ -232,7 +235,6 @@ def load_all_bands():
 
     this_dir = root_dir+r"\\madonna\\"
     main_words_dict['madonna'] = get_words_by_band(this_dir)
-    
     
     out_file = "all_lyrics.pickle"
     pickle_out = open(out_file,"wb")
