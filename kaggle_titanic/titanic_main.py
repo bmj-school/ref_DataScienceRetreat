@@ -20,11 +20,6 @@ myLogger.setLevel("DEBUG")
 #===============================================================================
 #--- SETUP external modules
 #===============================================================================
-import pandas as pd
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import openpyxl as openpyxl
-import seaborn as sb
 
 #===============================================================================
 #--- SETUP Custom modules
@@ -246,4 +241,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-    
