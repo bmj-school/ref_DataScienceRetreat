@@ -26,12 +26,12 @@ import os
 #import sys
 import unicodecsv as csv
 #import argparse
-#import json
+import json
 #from exceptions import ValueError
 import io as io
 import re
 from html.parser import HTMLParser
-import pickle
+#import pickle
 import itertools
 
 
@@ -63,13 +63,6 @@ def extract_lyrics_lxml(file_name):
         tree   = etree.parse(io.StringIO(f.read()), parser)
     
     print(tree)
-#     urls = tree.xpath('<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
-# ')
-# 
-#     raise
-
-
-
 
 
 class MLStripper(HTMLParser):
@@ -90,13 +83,8 @@ def strip_tags(html):
 
 
 def clean_lyrics(lyric_list):
-    #print("BEFORE")
-    #for line in lyric_list:
-    #    print(line)
-
     logging.debug("Cleaning {} lines".format(len(lyric_list)))
 
-    #print("\n\nAFTER")
     clean_line_list = list()
     for line in lyric_list:
         clean_line = strip_tags(line)
@@ -107,8 +95,10 @@ def clean_lyrics(lyric_list):
     return clean_line_list
 
 def extract_lyrics_basic(file_name):
+    """Iterative parser. Looks for start and end lines, discards rest. 
+    Returns pure html lines. 
+    """
     logging.debug("Processing {}".format(file_name))
-    
     
     pattern_start = re.compile(r"<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->")
     pattern_empty = re.compile('^\s*$')
@@ -150,7 +140,6 @@ def analyze(lyrics):
     lyrics = " ".join(lyrics)
     tokenizer = nltk.RegexpTokenizer(r'\w+')
     
-    
     #tokenizer.tokenize('Eighty-seven miles to go, yet.  Onward!')
     #tokenized = [word_tokenize(i) for i in lyrics]
     words = tokenizer.tokenize(lyrics)
@@ -177,13 +166,6 @@ def analyze(lyrics):
 
     logging.debug("Removed {} words (stop words, numbers, single characters, etc,.), {} words remain".format(len_words - len(words), len(words)))
     
-    # Calculate frequency distribution
-    fdist = nltk.FreqDist(words)
-    
-    # Output top 50 words
-    #for word, frequency in fdist.most_common(5):
-    #    print(u'{};{}'.format(word, frequency))
-    
     return(words)
 
 def get_words_by_band(directory):
@@ -205,16 +187,8 @@ def get_words_by_band(directory):
         
     logging.debug("Finished processing {} songs".format(len(words_song)))
     
-    #logging.debug("Found {} words by this band".format(len(cumulative_words)))
     
     return words_song
-    
-    #fdist = nltk.FreqDist(cumulative_words)
-    
-    # Output top 50 words
-    #for word, frequency in fdist.most_common(20):
-    #    print(u'{};{}'.format(word, frequency))
-    #return cumulative_words
 
 def load_all_bands():
     """Process each band directory to retrieve lyrics. Save the results to pickle. 
