@@ -1,6 +1,6 @@
 # Code modified from:
 #https://www.scrapehero.com/how-to-scrape-job-listings-from-glassdoor-using-python-and-lxml/
-
+# 
 #===============================================================================
 #--- SETUP Config
 #===============================================================================
