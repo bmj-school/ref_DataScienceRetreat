@@ -1,0 +1,15 @@
+numpy==1.13.1
+cvxopt==1.1.9
+scipy==0.19.1
+scikit-learn==0.19.0
+matplotlib==2.0.2
+seaborn==0.8
+jupyter==1.0.0
+pandas==0.20.3
+ipython==5.4.1
+nltk==3.2.4
+Flask-RESTful==0.3.6
+#fastparquet==0.1.2
+#cvxpy==0.4.10
+six==1.11.0
+
