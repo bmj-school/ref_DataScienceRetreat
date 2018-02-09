@@ -25,3 +25,4 @@ OTHER
 https://github.com/albemala/almoviesrenamer
 https://github.com/yoelk/instrumentino
 https://github.com/perone/Pyevolve
+https://github.com/swirldev/swirl_courses
