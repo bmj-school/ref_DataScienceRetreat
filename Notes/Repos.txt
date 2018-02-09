@@ -1,0 +1,27 @@
+https://github.com/MarcusJones/data-science-retreat-svm.git
+
+remote.origin.url	https://github.com/ADGEfficiency/DSR_RL.git
+
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
+
+https://github.com/keon/algorithms
+
+BIM
+https://github.com/opensourceBIM/BIMsurfer
+BIMserver
+https://github.com/IfcOpenShell/IfcOpenShell
+https://github.com/jmirtsch/GeometryGymIFC
+https://github.com/ifcquery/ifcplusplus
+https://github.com/santoshphilip/eppy
+https://github.com/architecture-building-systems/esoreader
+https://github.com/MGVisschers/IFC-to-gbXML-converter
+
+
+ALGOTRADE
+https://github.com/gbeced/pyalgotrade
+https://github.com/quantopian/zipline
+
+OTHER
+https://github.com/albemala/almoviesrenamer
+https://github.com/yoelk/instrumentino
+https://github.com/perone/Pyevolve
