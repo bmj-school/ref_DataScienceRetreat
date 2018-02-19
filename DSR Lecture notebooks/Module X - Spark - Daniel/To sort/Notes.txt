@@ -1,0 +1,57 @@
+#####
+```trainFilled = train.na.fill({'Age': ageMean, 'Embarked': 'S'})
+testFilled = test.na.fill({'Age': ageMean, 'Embarked': 'S', 'Fare': fareMean})
+```
+```fareMean = float(train_desc.loc['mean']['Fare'])```
+#####
+Example of Window functions usage 
+from pyspark.sql import Window
+from pyspark.sql import functions as F
+
+w = (Window()
+   .partitionBy('Pclass')
+   .orderBy('Fare')
+   .rowsBetween(-9, 0))
+
+(train
+ .withColumn('sumFare', F.sum('Fare').over(w))
+ .select('PClass','Fare','sumFare')
+ .show())
+#####
+```selected_users = df_city_reviews.groupBy('user_idn').max().filter('max(review_number) > 4').select('user_idn')
+```
+Better:
+```selected_users = df_city_reviews.select('user_idn', 'review_number').groupBy('user_idn') \
+                    .max().filter('max(review_number) > 4').select('user_idn')```
+#####
+cols1 = df.columns
+cols2 = cols1[:]
+cols2[0] = 'a'
+df.toDF(*cols2)
+#####
+
+```zero_mean_UDF = UserDefinedFunction(lambda x,y: zero_mean(x,y), DoubleType())
+
+df_centered = df_selected.withColumn('centered_rating', zero_mean_UDF(df_selected.user_id,df_selected.stars))
+```
+```zero_mean_UDF = UserDefinedFunction(zero_mean, DoubleType())
+
+df_centered = df_selected.withColumn('centered_rating', zero_mean_UDF(df_selected.user_id,df_selected.stars))
+```
+```zero_mean_UDF = UserDefinedFunction(zero_mean, DoubleType())
+
+df_centered = df_selected.withColumn('centered_rating', zero_mean_UDF('user_id','stars'))
+```
+```w = Window().partitionBy('user_idn')
+
+df_centered = df_selected.withColumn('centered_rating', df_selected.stars - F.mean('stars').over(w))```
+
+
+#####
+df_centered = (df_selected
+ .join(df_selected
+       .groupBy('user_id')
+       .agg({'stars': 'avg'}),
+       on='user_id')
+ .withColumn('stars', F.col('stars') - F.col('avg(stars)'))
+ .drop('avg(stars)'))
