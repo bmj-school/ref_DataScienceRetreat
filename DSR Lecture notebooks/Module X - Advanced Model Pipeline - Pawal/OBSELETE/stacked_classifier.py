@@ -7,10 +7,8 @@ from sklearn.model_selection import cross_val_predict
 
 class StackedClassifier(BaseEstimator, TransformerMixin):
 
-    classes_ = [0,1]
-    
     def __init__(self, estimators, mixer,
-                 n_jobs=1, cv=None, probability=False):
+                 n_jobs=1, cv=5, probability=False):
         self.estimators = estimators
         self.mixer = mixer
         self.n_jobs = n_jobs
