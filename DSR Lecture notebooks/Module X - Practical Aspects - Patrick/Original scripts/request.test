@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X POST -d '{"customerID": 6304965406, "basket": [4, 3, 0, 3, 1, 1, 2, 0, 2], "zipCode": 27291, "totalAmount": 12, "fraudLabel": 0}' http://localhost:5000/predict
