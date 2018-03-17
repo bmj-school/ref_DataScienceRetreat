@@ -1,0 +1,1000 @@
+{"customerID": 3479993074, "basket": [1, 0, 3, 2, 3, 0, 3], "zipCode": 25378, "totalAmount": 287, "fraudLabel": 0}
+{"customerID": 9867234339, "basket": [0, 4, 2], "zipCode": 63929, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 9722892914, "basket": [4], "zipCode": 97373, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 3473098263, "basket": [0, 2, 3, 0, 1, 3], "zipCode": 95113, "totalAmount": 732, "fraudLabel": 0}
+{"customerID": 5789310347, "basket": [1, 4, 3], "zipCode": 84278, "totalAmount": 390, "fraudLabel": 1}
+{"customerID": 6413477615, "basket": [4, 3, 4, 0, 0, 1], "zipCode": 90695, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 6952095533, "basket": [3], "zipCode": 21421, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 4343640923, "basket": [2], "zipCode": 69557, "totalAmount": 83, "fraudLabel": 0}
+{"customerID": 8697824199, "basket": [1, 1, 4, 0], "zipCode": 28002, "totalAmount": 324, "fraudLabel": 0}
+{"customerID": 2247388014, "basket": [1, 3, 3, 4], "zipCode": 83709, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 9394674891, "basket": [0, 0, 3, 0, 1, 0, 3, 1, 1, 1, 4], "zipCode": 22753, "totalAmount": 550, "fraudLabel": 0}
+{"customerID": 8786440162, "basket": [1, 3, 0, 3, 1], "zipCode": 13038, "totalAmount": 300, "fraudLabel": 0}
+{"customerID": 8570849853, "basket": [4, 1], "zipCode": 31014, "totalAmount": 148, "fraudLabel": 0}
+{"customerID": 9993017536, "basket": [4, 2, 3, 2, 3, 3], "zipCode": 82640, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 6730841785, "basket": [4, 2, 2, 0, 0], "zipCode": 45838, "totalAmount": 250, "fraudLabel": 0}
+{"customerID": 5240747721, "basket": [3], "zipCode": 71678, "totalAmount": 42, "fraudLabel": 0}
+{"customerID": 9816538747, "basket": [0, 2, 1, 0, 3, 1], "zipCode": 79933, "totalAmount": 174, "fraudLabel": 0}
+{"customerID": 5292908901, "basket": [1, 2, 1, 0], "zipCode": 45046, "totalAmount": 76, "fraudLabel": 0}
+{"customerID": 7881512840, "basket": [4, 1, 3, 2, 2], "zipCode": 10115, "totalAmount": 230, "fraudLabel": 0}
+{"customerID": 7603996223, "basket": [3, 1, 1, 0, 0, 3, 0, 3, 2, 3], "zipCode": 11401, "totalAmount": 590, "fraudLabel": 0}
+{"customerID": 1228445828, "basket": [3, 0, 0, 0, 2, 3, 0, 2], "zipCode": 96901, "totalAmount": 464, "fraudLabel": 0}
+{"customerID": 3840778273, "basket": [0], "zipCode": 17962, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 6810624571, "basket": [0, 4, 2, 0, 0, 3, 4, 2, 3, 1, 3], "zipCode": 82028, "totalAmount": 924, "fraudLabel": 0}
+{"customerID": 1253580292, "basket": [4, 0], "zipCode": 31676, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 2314761349, "basket": [3, 3, 2, 0, 1, 0, 4, 1, 2], "zipCode": 90726, "totalAmount": 279, "fraudLabel": 0}
+{"customerID": 7680672665, "basket": [1, 3], "zipCode": 65413, "totalAmount": 44, "fraudLabel": 0}
+{"customerID": 7738201147, "basket": [2], "zipCode": 55119, "totalAmount": 75, "fraudLabel": 1}
+{"customerID": 5114031877, "basket": [4, 2, 3, 3, 4, 2, 3, 2, 0, 0], "zipCode": 34947, "totalAmount": 730, "fraudLabel": 0}
+{"customerID": 6170886373, "basket": [1, 0, 0, 2, 2, 4, 1, 0, 2], "zipCode": 31127, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 2421268448, "basket": [2, 2, 0, 2], "zipCode": 27737, "totalAmount": 356, "fraudLabel": 0}
+{"customerID": 6190167526, "basket": [0, 4, 4, 0], "zipCode": 48822, "totalAmount": 172, "fraudLabel": 0}
+{"customerID": 9436065748, "basket": [4, 1], "zipCode": 66413, "totalAmount": 148, "fraudLabel": 0}
+{"customerID": 7634245443, "basket": [2, 0, 2, 3, 2, 0, 3], "zipCode": 24998, "totalAmount": 329, "fraudLabel": 0}
+{"customerID": 2020901751, "basket": [0, 4, 3, 1, 4, 0, 1], "zipCode": 72389, "totalAmount": 434, "fraudLabel": 0}
+{"customerID": 3211152927, "basket": [3, 0, 2, 4, 2, 0, 0, 4, 3], "zipCode": 94647, "totalAmount": 396, "fraudLabel": 0}
+{"customerID": 1143381218, "basket": [0], "zipCode": 40821, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 8828415155, "basket": [3, 1, 1, 4], "zipCode": 83727, "totalAmount": 220, "fraudLabel": 0}
+{"customerID": 9535472123, "basket": [0, 0, 3], "zipCode": 69731, "totalAmount": 117, "fraudLabel": 0}
+{"customerID": 2636160595, "basket": [1, 0], "zipCode": 58976, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 6719747324, "basket": [0, 4, 0, 3, 1, 4, 2, 1, 1], "zipCode": 30579, "totalAmount": 792, "fraudLabel": 0}
+{"customerID": 8929042201, "basket": [1, 2, 1, 1], "zipCode": 34968, "totalAmount": 420, "fraudLabel": 0}
+{"customerID": 2126727609, "basket": [0, 1, 4, 0, 1, 0], "zipCode": 86448, "totalAmount": 450, "fraudLabel": 0}
+{"customerID": 2392622510, "basket": [0, 3, 0, 4, 2, 2, 2], "zipCode": 65200, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 7343727127, "basket": [4], "zipCode": 67729, "totalAmount": 76, "fraudLabel": 0}
+{"customerID": 4531353884, "basket": [3, 1, 3, 1, 2], "zipCode": 78837, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1955509780, "basket": [4, 2], "zipCode": 77605, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 8454902211, "basket": [1], "zipCode": 86018, "totalAmount": 38, "fraudLabel": 0}
+{"customerID": 6035414478, "basket": [1], "zipCode": 61808, "totalAmount": 49, "fraudLabel": 0}
+{"customerID": 8980553247, "basket": [1], "zipCode": 62450, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 2521449408, "basket": [1, 1, 1], "zipCode": 21201, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 8404768257, "basket": [0, 4], "zipCode": 10755, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 5869560960, "basket": [2, 2, 4], "zipCode": 75068, "totalAmount": 114, "fraudLabel": 0}
+{"customerID": 6225611489, "basket": [0, 1, 4, 1, 3], "zipCode": 45573, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1249184847, "basket": [3], "zipCode": 31698, "totalAmount": 28, "fraudLabel": 0}
+{"customerID": 8799477657, "basket": [0], "zipCode": 53974, "totalAmount": 27, "fraudLabel": 0}
+{"customerID": 2977076686, "basket": [1, 1], "zipCode": 99115, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 6307408056, "basket": [0, 3, 1, 2, 1, 0, 3, 0, 4, 3], "zipCode": 50133, "totalAmount": 160, "fraudLabel": 0}
+{"customerID": 7545069594, "basket": [1, 4], "zipCode": 15224, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 2107536291, "basket": [3, 2, 0], "zipCode": 65091, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 4345982840, "basket": [1, 1, 3, 4, 2, 2, 3], "zipCode": 72870, "totalAmount": 273, "fraudLabel": 0}
+{"customerID": 7003944417, "basket": [0, 0, 3, 2, 3, 2], "zipCode": 99726, "totalAmount": 426, "fraudLabel": 0}
+{"customerID": 6569964933, "basket": [1, 2, 0, 4, 1], "zipCode": 68755, "totalAmount": 340, "fraudLabel": 0}
+{"customerID": 9943710842, "basket": [3, 1, 1, 2, 0, 2, 2], "zipCode": 42144, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 7176429383, "basket": [0, 3, 0, 4], "zipCode": 61416, "totalAmount": 160, "fraudLabel": 0}
+{"customerID": 2471223137, "basket": [3, 0, 3, 0], "zipCode": 24110, "totalAmount": 276, "fraudLabel": 0}
+{"customerID": 7597373522, "basket": [4, 2, 0, 4, 0], "zipCode": 75979, "totalAmount": 305, "fraudLabel": 0}
+{"customerID": 7025496793, "basket": [0, 0, 3, 0, 3, 2, 2, 3], "zipCode": 95944, "totalAmount": 368, "fraudLabel": 0}
+{"customerID": 1770479754, "basket": [4, 3, 1, 1, 3, 2, 3, 0], "zipCode": 41085, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 5615386534, "basket": [3], "zipCode": 78630, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 9661184583, "basket": [4, 3, 1, 3, 3, 4, 4], "zipCode": 62717, "totalAmount": 791, "fraudLabel": 1}
+{"customerID": 9227105556, "basket": [3, 0, 3, 0, 2], "zipCode": 78314, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1640002356, "basket": [0, 2, 4, 0, 2, 0], "zipCode": 35125, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 7988864120, "basket": [3, 2, 0, 4, 0], "zipCode": 53693, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 6247215861, "basket": [1, 1, 3, 1, 1, 1, 0, 2, 2, 0, 2, 0, 0, 1], "zipCode": 33948, "totalAmount": 602, "fraudLabel": 0}
+{"customerID": 2213868440, "basket": [1, 4, 4], "zipCode": 52589, "totalAmount": 315, "fraudLabel": 0}
+{"customerID": 8913970234, "basket": [4, 0, 4, 0, 4, 0, 4], "zipCode": 38512, "totalAmount": 483, "fraudLabel": 0}
+{"customerID": 3994815884, "basket": [3, 1, 3, 2], "zipCode": 83841, "totalAmount": 340, "fraudLabel": 0}
+{"customerID": 2178091795, "basket": [4, 4, 2, 3], "zipCode": 41457, "totalAmount": 268, "fraudLabel": 0}
+{"customerID": 2545473405, "basket": [0, 2, 1], "zipCode": 38588, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 4109722067, "basket": [4, 1, 2], "zipCode": 29177, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 1972150978, "basket": [1, 4, 1, 4], "zipCode": 47959, "totalAmount": 88, "fraudLabel": 0}
+{"customerID": 2654554682, "basket": [3, 2, 2, 1, 3], "zipCode": 83359, "totalAmount": 285, "fraudLabel": 0}
+{"customerID": 7909421888, "basket": [3, 4, 3, 1, 2], "zipCode": 32514, "totalAmount": 590, "fraudLabel": 0}
+{"customerID": 4475563374, "basket": [2, 2], "zipCode": 95110, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 4201251623, "basket": [2, 2, 2, 0, 1, 2], "zipCode": 24121, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 9155309122, "basket": [1], "zipCode": 19283, "totalAmount": 39, "fraudLabel": 0}
+{"customerID": 3659366431, "basket": [4, 2], "zipCode": 68395, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 9139196448, "basket": [0, 4, 2, 3, 2, 3], "zipCode": 97826, "totalAmount": 378, "fraudLabel": 0}
+{"customerID": 6544103310, "basket": [3, 0, 4, 1], "zipCode": 44628, "totalAmount": 128, "fraudLabel": 0}
+{"customerID": 5706895587, "basket": [0, 2, 0, 2, 4, 2, 1, 3, 1], "zipCode": 59089, "totalAmount": 639, "fraudLabel": 0}
+{"customerID": 1015533935, "basket": [2, 0, 2], "zipCode": 23853, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 5436712123, "basket": [3, 0], "zipCode": 92204, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 7573699035, "basket": [3], "zipCode": 16166, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 8627712345, "basket": [0], "zipCode": 44622, "totalAmount": 65, "fraudLabel": 0}
+{"customerID": 2745373859, "basket": [2, 4, 4, 0, 1], "zipCode": 31108, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 7118062546, "basket": [0, 4, 0, 2, 4], "zipCode": 31568, "totalAmount": 135, "fraudLabel": 0}
+{"customerID": 7241134422, "basket": [2], "zipCode": 43447, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 8295329100, "basket": [3, 1], "zipCode": 35285, "totalAmount": 100, "fraudLabel": 0}
+{"customerID": 3389894945, "basket": [0, 2, 3, 3], "zipCode": 86165, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 2759259811, "basket": [0, 4, 0, 0, 3, 1, 0, 4], "zipCode": 33327, "totalAmount": 544, "fraudLabel": 0}
+{"customerID": 3386315280, "basket": [1, 1], "zipCode": 55354, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 6016427328, "basket": [3], "zipCode": 37589, "totalAmount": 67, "fraudLabel": 1}
+{"customerID": 7422644291, "basket": [1, 2, 2, 4, 4, 4, 4, 2], "zipCode": 26677, "totalAmount": 384, "fraudLabel": 0}
+{"customerID": 8014675864, "basket": [1, 0, 0, 4, 4], "zipCode": 16955, "totalAmount": 135, "fraudLabel": 0}
+{"customerID": 7712250760, "basket": [0, 0, 3, 2, 2, 0, 4], "zipCode": 20615, "totalAmount": 434, "fraudLabel": 0}
+{"customerID": 2571231576, "basket": [3, 2, 0, 2], "zipCode": 83527, "totalAmount": 232, "fraudLabel": 0}
+{"customerID": 7736912363, "basket": [0, 2, 3, 2, 3, 0], "zipCode": 49016, "totalAmount": 162, "fraudLabel": 0}
+{"customerID": 7236727091, "basket": [0, 0, 2, 3, 2, 3, 1], "zipCode": 71917, "totalAmount": 231, "fraudLabel": 0}
+{"customerID": 2425354636, "basket": [2, 0, 2, 4, 3, 4, 4, 3, 0, 2, 4, 0], "zipCode": 89203, "totalAmount": 1080, "fraudLabel": 0}
+{"customerID": 1876698224, "basket": [4, 2, 2], "zipCode": 95275, "totalAmount": 228, "fraudLabel": 0}
+{"customerID": 1058563224, "basket": [0, 3], "zipCode": 39780, "totalAmount": 72, "fraudLabel": 0}
+{"customerID": 3550983530, "basket": [3], "zipCode": 42715, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 1938469083, "basket": [4, 2, 3, 2, 1], "zipCode": 34225, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 3703267282, "basket": [2, 3, 2, 0], "zipCode": 28686, "totalAmount": 388, "fraudLabel": 0}
+{"customerID": 5457850803, "basket": [0, 1], "zipCode": 50665, "totalAmount": 134, "fraudLabel": 0}
+{"customerID": 2435208322, "basket": [2, 3, 1], "zipCode": 80855, "totalAmount": 228, "fraudLabel": 0}
+{"customerID": 5953957178, "basket": [3, 1], "zipCode": 76318, "totalAmount": 162, "fraudLabel": 0}
+{"customerID": 7234768500, "basket": [3], "zipCode": 73700, "totalAmount": 45, "fraudLabel": 0}
+{"customerID": 5171020874, "basket": [1], "zipCode": 48802, "totalAmount": 46, "fraudLabel": 0}
+{"customerID": 9091701984, "basket": [4], "zipCode": 38930, "totalAmount": 51, "fraudLabel": 1}
+{"customerID": 7743058071, "basket": [3, 2, 0, 4, 1, 0, 0], "zipCode": 53102, "totalAmount": 693, "fraudLabel": 0}
+{"customerID": 3476645042, "basket": [4], "zipCode": 95791, "totalAmount": 95, "fraudLabel": 0}
+{"customerID": 6106930127, "basket": [2, 2, 3, 1, 2], "zipCode": 99938, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 1917899605, "basket": [1, 2, 2], "zipCode": 19103, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 8537455275, "basket": [2, 1, 4, 2, 2, 2], "zipCode": 84272, "totalAmount": 342, "fraudLabel": 0}
+{"customerID": 5821271992, "basket": [3, 2], "zipCode": 62234, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 2334686158, "basket": [3, 0, 2, 1], "zipCode": 93426, "totalAmount": 248, "fraudLabel": 0}
+{"customerID": 8135201178, "basket": [4, 1], "zipCode": 12639, "totalAmount": 158, "fraudLabel": 0}
+{"customerID": 9089795662, "basket": [1, 4, 0], "zipCode": 27552, "totalAmount": 123, "fraudLabel": 0}
+{"customerID": 2442633586, "basket": [4, 1, 3, 1], "zipCode": 93549, "totalAmount": 292, "fraudLabel": 0}
+{"customerID": 5955594584, "basket": [0, 1], "zipCode": 86970, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 9132908461, "basket": [4, 0, 0, 2, 2, 0], "zipCode": 38829, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 8930855624, "basket": [2], "zipCode": 78433, "totalAmount": 54, "fraudLabel": 0}
+{"customerID": 7909278852, "basket": [4, 0, 0, 2], "zipCode": 67565, "totalAmount": 240, "fraudLabel": 0}
+{"customerID": 3817362771, "basket": [0, 4, 1, 3, 3, 3, 3, 2, 2], "zipCode": 18100, "totalAmount": 567, "fraudLabel": 0}
+{"customerID": 3975450796, "basket": [1, 0, 4, 1], "zipCode": 22280, "totalAmount": 344, "fraudLabel": 0}
+{"customerID": 2144363895, "basket": [0, 0], "zipCode": 77256, "totalAmount": 154, "fraudLabel": 0}
+{"customerID": 6576761245, "basket": [1], "zipCode": 30638, "totalAmount": 68, "fraudLabel": 0}
+{"customerID": 2184002895, "basket": [2, 2], "zipCode": 58711, "totalAmount": 76, "fraudLabel": 0}
+{"customerID": 4896879754, "basket": [1, 3, 2, 1, 2, 1, 2], "zipCode": 99684, "totalAmount": 679, "fraudLabel": 0}
+{"customerID": 6577835847, "basket": [3, 0, 1, 1, 1, 0, 0, 4], "zipCode": 21296, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 3035363652, "basket": [4, 1, 3, 4, 2, 1], "zipCode": 17969, "totalAmount": 540, "fraudLabel": 0}
+{"customerID": 1132694262, "basket": [2, 0], "zipCode": 61003, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 1237684765, "basket": [2], "zipCode": 82486, "totalAmount": 25, "fraudLabel": 0}
+{"customerID": 7255636302, "basket": [1, 2, 3, 2, 3, 2, 2, 0], "zipCode": 38270, "totalAmount": 688, "fraudLabel": 0}
+{"customerID": 9323389783, "basket": [2, 4, 2, 1], "zipCode": 87534, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 6808181367, "basket": [2, 0], "zipCode": 10902, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 4068719831, "basket": [2, 3, 1, 4, 1, 3, 4, 0, 4], "zipCode": 13319, "totalAmount": 702, "fraudLabel": 0}
+{"customerID": 2109444217, "basket": [3, 3, 3, 0], "zipCode": 94361, "totalAmount": 204, "fraudLabel": 0}
+{"customerID": 7043647817, "basket": [0, 4, 3, 3, 3], "zipCode": 35173, "totalAmount": 240, "fraudLabel": 0}
+{"customerID": 2137841758, "basket": [3, 4, 0, 2, 4, 4, 2], "zipCode": 28371, "totalAmount": 231, "fraudLabel": 0}
+{"customerID": 1090057846, "basket": [3, 0, 4, 0, 3], "zipCode": 80882, "totalAmount": 395, "fraudLabel": 0}
+{"customerID": 5832968960, "basket": [2, 1, 0, 4, 1], "zipCode": 99759, "totalAmount": 255, "fraudLabel": 0}
+{"customerID": 4751967299, "basket": [4, 2], "zipCode": 41215, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 3112003639, "basket": [0, 2], "zipCode": 99612, "totalAmount": 174, "fraudLabel": 0}
+{"customerID": 2919360724, "basket": [0, 4, 4, 2], "zipCode": 15113, "totalAmount": 200, "fraudLabel": 0}
+{"customerID": 9449973284, "basket": [2, 3, 0, 1], "zipCode": 89471, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 9426533855, "basket": [1], "zipCode": 30275, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 2496701705, "basket": [1, 0, 0, 0, 1, 3], "zipCode": 18042, "totalAmount": 270, "fraudLabel": 0}
+{"customerID": 1231313431, "basket": [1, 2, 0, 1], "zipCode": 45967, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 5967303112, "basket": [0, 3, 3, 1, 3, 3, 3, 4, 4, 0, 0, 3], "zipCode": 85447, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 3260609491, "basket": [4], "zipCode": 73590, "totalAmount": 84, "fraudLabel": 1}
+{"customerID": 5093564217, "basket": [0, 2, 2], "zipCode": 80385, "totalAmount": 165, "fraudLabel": 0}
+{"customerID": 4573327238, "basket": [0, 1, 0, 0, 2, 2], "zipCode": 67254, "totalAmount": 462, "fraudLabel": 0}
+{"customerID": 2142875221, "basket": [3, 2, 4, 4], "zipCode": 13350, "totalAmount": 300, "fraudLabel": 0}
+{"customerID": 1312611255, "basket": [2, 1, 2, 1, 3], "zipCode": 12214, "totalAmount": 330, "fraudLabel": 0}
+{"customerID": 4334446266, "basket": [4, 2], "zipCode": 49882, "totalAmount": 234, "fraudLabel": 0}
+{"customerID": 9553128673, "basket": [3, 2, 0, 0, 2, 2, 3, 1, 1, 4], "zipCode": 34826, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 4950625273, "basket": [2, 4, 1, 1, 1, 1], "zipCode": 62542, "totalAmount": 240, "fraudLabel": 0}
+{"customerID": 2483151211, "basket": [4, 0, 4, 1, 0, 0, 2, 0, 1, 1], "zipCode": 72004, "totalAmount": 740, "fraudLabel": 0}
+{"customerID": 9028605071, "basket": [2, 3, 0, 3, 0], "zipCode": 45294, "totalAmount": 325, "fraudLabel": 0}
+{"customerID": 5664241753, "basket": [4, 0, 2, 4, 2, 4], "zipCode": 96893, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 9230084103, "basket": [3, 1, 4, 1, 4, 0, 1], "zipCode": 65525, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 2183000249, "basket": [4, 3, 3, 3, 2, 3, 3, 0, 4, 0], "zipCode": 43146, "totalAmount": 250, "fraudLabel": 0}
+{"customerID": 4596087143, "basket": [3, 3, 1, 4], "zipCode": 48755, "totalAmount": 212, "fraudLabel": 0}
+{"customerID": 2909304347, "basket": [3, 1], "zipCode": 51542, "totalAmount": 92, "fraudLabel": 0}
+{"customerID": 4678322355, "basket": [4, 3, 2, 0, 3], "zipCode": 40557, "totalAmount": 340, "fraudLabel": 0}
+{"customerID": 2597577603, "basket": [3, 0, 0], "zipCode": 60382, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 3045904534, "basket": [1], "zipCode": 26699, "totalAmount": 34, "fraudLabel": 0}
+{"customerID": 4675069925, "basket": [0, 1, 1, 3, 4, 2], "zipCode": 37615, "totalAmount": 390, "fraudLabel": 0}
+{"customerID": 8922910421, "basket": [4, 3, 3, 4, 1, 2], "zipCode": 35156, "totalAmount": 612, "fraudLabel": 0}
+{"customerID": 1315908652, "basket": [0, 0, 0, 0], "zipCode": 97960, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 4020445637, "basket": [3], "zipCode": 84624, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 3113308740, "basket": [3, 1, 2, 4, 1], "zipCode": 49237, "totalAmount": 205, "fraudLabel": 0}
+{"customerID": 2516574859, "basket": [1], "zipCode": 24853, "totalAmount": 51, "fraudLabel": 0}
+{"customerID": 2331018106, "basket": [3, 2, 1, 1, 1, 3, 1], "zipCode": 51141, "totalAmount": 784, "fraudLabel": 0}
+{"customerID": 1967109093, "basket": [4, 4, 1, 2, 1], "zipCode": 92119, "totalAmount": 225, "fraudLabel": 0}
+{"customerID": 9240214300, "basket": [0, 4, 3, 4, 2, 0], "zipCode": 76177, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 4162099880, "basket": [2, 1, 0, 1, 2], "zipCode": 35532, "totalAmount": 330, "fraudLabel": 0}
+{"customerID": 4218156053, "basket": [2, 1, 0, 2, 2, 4], "zipCode": 69701, "totalAmount": 318, "fraudLabel": 0}
+{"customerID": 7706700346, "basket": [3, 4, 4, 0, 4], "zipCode": 67427, "totalAmount": 280, "fraudLabel": 0}
+{"customerID": 2594064257, "basket": [4, 1, 3, 4, 1, 3], "zipCode": 69096, "totalAmount": 372, "fraudLabel": 0}
+{"customerID": 7551012211, "basket": [2, 0, 4, 3, 4, 1, 0], "zipCode": 45351, "totalAmount": 350, "fraudLabel": 0}
+{"customerID": 3028280549, "basket": [4, 2, 1, 4, 3, 4, 1, 3, 0], "zipCode": 49603, "totalAmount": 324, "fraudLabel": 0}
+{"customerID": 4274381440, "basket": [3, 4, 4, 3, 0, 0, 3, 3], "zipCode": 99275, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 6847005874, "basket": [3, 1, 4], "zipCode": 46105, "totalAmount": 222, "fraudLabel": 1}
+{"customerID": 7642143713, "basket": [0, 0, 0, 3, 0, 4, 2, 0], "zipCode": 89832, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 3733454830, "basket": [1, 0, 1], "zipCode": 51411, "totalAmount": 171, "fraudLabel": 0}
+{"customerID": 9241758491, "basket": [1, 2, 3, 3, 3], "zipCode": 51700, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 2665867882, "basket": [0, 2, 0, 2, 3, 3, 4, 4, 4, 1, 1], "zipCode": 21586, "totalAmount": 1155, "fraudLabel": 0}
+{"customerID": 7610598946, "basket": [3, 2, 0, 0, 2, 1, 4, 1], "zipCode": 32287, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 3890246541, "basket": [3, 2, 2, 3, 3], "zipCode": 27100, "totalAmount": 425, "fraudLabel": 0}
+{"customerID": 9715383887, "basket": [1, 3, 0, 0, 4, 2, 2, 0], "zipCode": 27668, "totalAmount": 200, "fraudLabel": 0}
+{"customerID": 5413245304, "basket": [1, 0, 4, 0, 1, 1, 4, 3], "zipCode": 84758, "totalAmount": 688, "fraudLabel": 1}
+{"customerID": 5502087711, "basket": [1, 3, 4, 2, 3, 2, 4, 3], "zipCode": 13168, "totalAmount": 352, "fraudLabel": 0}
+{"customerID": 1558860108, "basket": [1, 0, 0], "zipCode": 26305, "totalAmount": 81, "fraudLabel": 0}
+{"customerID": 2453428208, "basket": [4], "zipCode": 81098, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 9564357797, "basket": [4, 0, 1, 2], "zipCode": 27916, "totalAmount": 324, "fraudLabel": 0}
+{"customerID": 3796790000, "basket": [1, 0, 4, 3, 3], "zipCode": 32207, "totalAmount": 470, "fraudLabel": 0}
+{"customerID": 4297755474, "basket": [4, 2, 1], "zipCode": 87560, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 9590036489, "basket": [1, 2, 0, 4, 2], "zipCode": 60347, "totalAmount": 125, "fraudLabel": 0}
+{"customerID": 2105791390, "basket": [3, 1, 0, 3, 3], "zipCode": 22415, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 4470937242, "basket": [4, 4, 0, 3], "zipCode": 24649, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 7036459075, "basket": [4, 1, 4], "zipCode": 83174, "totalAmount": 270, "fraudLabel": 1}
+{"customerID": 9161693447, "basket": [3, 2, 2, 3], "zipCode": 66496, "totalAmount": 188, "fraudLabel": 0}
+{"customerID": 9303875560, "basket": [2, 2, 4, 4], "zipCode": 50554, "totalAmount": 204, "fraudLabel": 0}
+{"customerID": 8333389194, "basket": [4, 3, 4, 1, 0, 4, 1, 2], "zipCode": 33737, "totalAmount": 248, "fraudLabel": 0}
+{"customerID": 8848386395, "basket": [1, 4, 1, 4, 3, 1, 1, 1, 1], "zipCode": 65815, "totalAmount": 468, "fraudLabel": 0}
+{"customerID": 5734190929, "basket": [0], "zipCode": 17203, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 9286602544, "basket": [1, 0], "zipCode": 70124, "totalAmount": 146, "fraudLabel": 0}
+{"customerID": 5060672813, "basket": [0, 0, 0, 0], "zipCode": 11823, "totalAmount": 116, "fraudLabel": 0}
+{"customerID": 6697087925, "basket": [0, 2], "zipCode": 40462, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 6870810573, "basket": [2, 2, 2], "zipCode": 44834, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 6381504718, "basket": [2], "zipCode": 41761, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 8850946624, "basket": [0, 3, 0], "zipCode": 18218, "totalAmount": 141, "fraudLabel": 0}
+{"customerID": 5640546568, "basket": [3, 3, 4, 2, 1, 1, 0], "zipCode": 71924, "totalAmount": 420, "fraudLabel": 0}
+{"customerID": 9454449631, "basket": [2], "zipCode": 13281, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 7346315891, "basket": [0, 2, 1, 1, 1, 2, 3, 4, 3, 3], "zipCode": 95571, "totalAmount": 760, "fraudLabel": 0}
+{"customerID": 1449499374, "basket": [3, 0], "zipCode": 90638, "totalAmount": 174, "fraudLabel": 0}
+{"customerID": 4582982903, "basket": [3, 1, 0, 4, 3, 2, 1, 4], "zipCode": 21790, "totalAmount": 456, "fraudLabel": 0}
+{"customerID": 3225872959, "basket": [1, 0, 1, 3, 1, 1], "zipCode": 15881, "totalAmount": 246, "fraudLabel": 0}
+{"customerID": 1957258286, "basket": [3, 3, 3, 0, 2, 4, 3, 1, 4, 3, 2, 2], "zipCode": 67527, "totalAmount": 588, "fraudLabel": 0}
+{"customerID": 9400294994, "basket": [1, 3], "zipCode": 87464, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 3156159823, "basket": [0, 2, 2, 0, 4, 3, 1], "zipCode": 53841, "totalAmount": 329, "fraudLabel": 0}
+{"customerID": 8183247087, "basket": [2, 0, 2, 1, 4, 4, 3], "zipCode": 77093, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 4410822292, "basket": [1, 4, 4, 4, 1], "zipCode": 43702, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 7718099646, "basket": [4, 1, 4, 2, 3, 3, 4], "zipCode": 64346, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 8369004020, "basket": [0, 4, 3, 2, 2], "zipCode": 32880, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 7466697326, "basket": [0, 4, 4, 2, 0, 2, 0, 4, 3, 0], "zipCode": 60402, "totalAmount": 400, "fraudLabel": 0}
+{"customerID": 3303661289, "basket": [1, 4, 0], "zipCode": 82135, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 2362701531, "basket": [3], "zipCode": 47826, "totalAmount": 67, "fraudLabel": 0}
+{"customerID": 7463656539, "basket": [4, 1, 1, 2, 2, 2], "zipCode": 42501, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 3343863516, "basket": [0, 3, 3, 3, 1, 4, 4, 3], "zipCode": 92964, "totalAmount": 512, "fraudLabel": 0}
+{"customerID": 9637762420, "basket": [0, 4, 3, 1, 3, 0, 0, 3, 1, 0, 4], "zipCode": 95265, "totalAmount": 1089, "fraudLabel": 0}
+{"customerID": 8529797599, "basket": [1, 4, 2, 1], "zipCode": 81296, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 3135677400, "basket": [0], "zipCode": 53476, "totalAmount": 27, "fraudLabel": 0}
+{"customerID": 8202071035, "basket": [3, 0, 2, 2, 4, 0, 0, 4], "zipCode": 28188, "totalAmount": 368, "fraudLabel": 0}
+{"customerID": 1608809568, "basket": [0, 3, 1, 4, 0, 4, 3], "zipCode": 46713, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 5712199706, "basket": [2, 1, 3], "zipCode": 36291, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 3393274140, "basket": [0, 1, 4, 1, 3], "zipCode": 99128, "totalAmount": 215, "fraudLabel": 0}
+{"customerID": 4726949633, "basket": [3], "zipCode": 87972, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 4013731010, "basket": [4, 4, 3, 2], "zipCode": 19871, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 1182040067, "basket": [2, 4, 3, 1, 1, 1], "zipCode": 55989, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 8559146442, "basket": [0, 4, 2, 0, 2], "zipCode": 34972, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 3317818225, "basket": [3, 0, 2, 2], "zipCode": 88290, "totalAmount": 312, "fraudLabel": 0}
+{"customerID": 1078590592, "basket": [4, 3, 3], "zipCode": 73431, "totalAmount": 87, "fraudLabel": 0}
+{"customerID": 9641482888, "basket": [0, 3, 4, 4, 4, 2, 1, 2, 0, 1, 2, 1], "zipCode": 54464, "totalAmount": 1056, "fraudLabel": 0}
+{"customerID": 7994888086, "basket": [2, 0], "zipCode": 65564, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 3103955674, "basket": [0, 1, 1, 2, 2], "zipCode": 41649, "totalAmount": 350, "fraudLabel": 0}
+{"customerID": 9152491925, "basket": [1, 2, 1, 3], "zipCode": 36291, "totalAmount": 264, "fraudLabel": 0}
+{"customerID": 5639445573, "basket": [1, 0, 0, 1, 0, 3], "zipCode": 69331, "totalAmount": 174, "fraudLabel": 0}
+{"customerID": 4403546680, "basket": [4, 4, 3, 2, 4], "zipCode": 32268, "totalAmount": 240, "fraudLabel": 1}
+{"customerID": 4469927053, "basket": [3, 4, 0, 2, 4, 0], "zipCode": 28730, "totalAmount": 132, "fraudLabel": 0}
+{"customerID": 6345327347, "basket": [3, 3], "zipCode": 45444, "totalAmount": 144, "fraudLabel": 1}
+{"customerID": 5954945388, "basket": [1], "zipCode": 61195, "totalAmount": 77, "fraudLabel": 0}
+{"customerID": 3112405273, "basket": [2, 1, 1, 4, 2, 3, 0, 4, 4, 0, 2, 0], "zipCode": 85253, "totalAmount": 492, "fraudLabel": 0}
+{"customerID": 3489110051, "basket": [3, 0, 1, 0], "zipCode": 62827, "totalAmount": 248, "fraudLabel": 0}
+{"customerID": 8412795041, "basket": [3, 1], "zipCode": 45227, "totalAmount": 82, "fraudLabel": 0}
+{"customerID": 1855619502, "basket": [4], "zipCode": 54901, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 7832968703, "basket": [0], "zipCode": 53311, "totalAmount": 67, "fraudLabel": 0}
+{"customerID": 7973954769, "basket": [1, 1, 4, 4, 3, 0, 1], "zipCode": 45920, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 9231343707, "basket": [0, 0, 4, 3], "zipCode": 24508, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 2840671690, "basket": [1, 2, 3, 1, 3], "zipCode": 52983, "totalAmount": 330, "fraudLabel": 0}
+{"customerID": 9487401319, "basket": [4, 3, 2], "zipCode": 63800, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 2197529164, "basket": [0, 0, 1, 1, 4, 1, 0, 2, 4], "zipCode": 17912, "totalAmount": 396, "fraudLabel": 0}
+{"customerID": 6386642264, "basket": [2, 2, 4, 1], "zipCode": 73303, "totalAmount": 452, "fraudLabel": 0}
+{"customerID": 9281596436, "basket": [3, 0, 3, 1, 1, 3], "zipCode": 96733, "totalAmount": 480, "fraudLabel": 0}
+{"customerID": 3318511941, "basket": [4], "zipCode": 91297, "totalAmount": 85, "fraudLabel": 0}
+{"customerID": 3448290679, "basket": [2], "zipCode": 56322, "totalAmount": 41, "fraudLabel": 0}
+{"customerID": 1081868017, "basket": [4, 3, 3, 3, 4], "zipCode": 40277, "totalAmount": 465, "fraudLabel": 0}
+{"customerID": 7367170620, "basket": [3, 2, 4, 2, 4], "zipCode": 22298, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 9591567061, "basket": [3, 4, 2, 3, 3, 4, 3, 3], "zipCode": 62395, "totalAmount": 1032, "fraudLabel": 0}
+{"customerID": 6844165613, "basket": [2, 4, 0, 4, 0], "zipCode": 12042, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 7187872747, "basket": [2, 2, 0], "zipCode": 77551, "totalAmount": 54, "fraudLabel": 0}
+{"customerID": 6554308171, "basket": [2], "zipCode": 39426, "totalAmount": 67, "fraudLabel": 0}
+{"customerID": 2888029460, "basket": [2, 2, 3, 2], "zipCode": 90165, "totalAmount": 308, "fraudLabel": 0}
+{"customerID": 6957035385, "basket": [2, 0, 1, 4, 1, 0, 4], "zipCode": 79779, "totalAmount": 602, "fraudLabel": 0}
+{"customerID": 2862200006, "basket": [4, 3, 0, 3, 1, 0, 4, 2], "zipCode": 25851, "totalAmount": 664, "fraudLabel": 0}
+{"customerID": 4038935596, "basket": [4, 0, 4, 4], "zipCode": 40695, "totalAmount": 224, "fraudLabel": 0}
+{"customerID": 6541396699, "basket": [4, 3, 1, 2, 3], "zipCode": 25263, "totalAmount": 380, "fraudLabel": 0}
+{"customerID": 6542504215, "basket": [4, 4, 1, 0, 0, 4, 1], "zipCode": 77902, "totalAmount": 357, "fraudLabel": 0}
+{"customerID": 7038222252, "basket": [2, 3, 3, 2, 2, 4], "zipCode": 66902, "totalAmount": 438, "fraudLabel": 0}
+{"customerID": 6133517722, "basket": [2, 0, 3, 4], "zipCode": 70492, "totalAmount": 304, "fraudLabel": 0}
+{"customerID": 2733407609, "basket": [4, 4], "zipCode": 30404, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 6206724624, "basket": [1, 3, 4], "zipCode": 12018, "totalAmount": 243, "fraudLabel": 0}
+{"customerID": 9867910899, "basket": [4], "zipCode": 15834, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 6909352189, "basket": [1, 4, 4, 3, 3, 4, 4], "zipCode": 26949, "totalAmount": 546, "fraudLabel": 1}
+{"customerID": 3262413817, "basket": [0, 0, 0, 2, 0, 1], "zipCode": 59249, "totalAmount": 138, "fraudLabel": 0}
+{"customerID": 2843853164, "basket": [3], "zipCode": 68731, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 9349991767, "basket": [4, 1, 2, 0, 4, 3, 3], "zipCode": 57180, "totalAmount": 441, "fraudLabel": 0}
+{"customerID": 9563595596, "basket": [1, 3, 4, 1, 3, 3, 0], "zipCode": 39403, "totalAmount": 595, "fraudLabel": 0}
+{"customerID": 1098563481, "basket": [0], "zipCode": 42585, "totalAmount": 57, "fraudLabel": 0}
+{"customerID": 2799121904, "basket": [3, 3, 4, 2, 4, 1, 1, 3, 3], "zipCode": 39578, "totalAmount": 189, "fraudLabel": 0}
+{"customerID": 1752911356, "basket": [1], "zipCode": 55327, "totalAmount": 32, "fraudLabel": 0}
+{"customerID": 8484801172, "basket": [1, 4, 3, 0, 3, 0, 0, 3, 4], "zipCode": 17546, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 9366231715, "basket": [4, 1, 3, 3, 4, 3, 3], "zipCode": 99321, "totalAmount": 819, "fraudLabel": 1}
+{"customerID": 4744276064, "basket": [2, 3, 2, 1, 1, 3, 4], "zipCode": 77287, "totalAmount": 301, "fraudLabel": 0}
+{"customerID": 2877288602, "basket": [1, 4, 1], "zipCode": 92139, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 2990413993, "basket": [4], "zipCode": 91895, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 9920797417, "basket": [3, 0, 0, 2, 3, 0, 1, 4], "zipCode": 46211, "totalAmount": 488, "fraudLabel": 0}
+{"customerID": 8237502404, "basket": [0], "zipCode": 25528, "totalAmount": 39, "fraudLabel": 0}
+{"customerID": 8228674862, "basket": [1, 0], "zipCode": 77390, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 9564081322, "basket": [1, 4, 0, 3, 3, 2], "zipCode": 49045, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 8766148501, "basket": [3], "zipCode": 93336, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 7697079240, "basket": [3, 2, 0], "zipCode": 78847, "totalAmount": 102, "fraudLabel": 0}
+{"customerID": 5507985389, "basket": [1, 4, 3], "zipCode": 30189, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 3451300719, "basket": [0, 4, 2, 3, 1], "zipCode": 34458, "totalAmount": 330, "fraudLabel": 0}
+{"customerID": 2143829430, "basket": [3, 2, 0, 2], "zipCode": 71453, "totalAmount": 176, "fraudLabel": 0}
+{"customerID": 9001522272, "basket": [3, 0, 3, 3], "zipCode": 88901, "totalAmount": 124, "fraudLabel": 0}
+{"customerID": 7141012263, "basket": [3, 2, 2, 2, 2, 2, 1, 0], "zipCode": 42265, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 8232095217, "basket": [4, 2, 1, 3], "zipCode": 84273, "totalAmount": 116, "fraudLabel": 0}
+{"customerID": 1870908736, "basket": [3, 3], "zipCode": 14884, "totalAmount": 122, "fraudLabel": 0}
+{"customerID": 3892418221, "basket": [4, 1, 4, 2, 4, 1], "zipCode": 52000, "totalAmount": 390, "fraudLabel": 0}
+{"customerID": 5338482935, "basket": [1], "zipCode": 12881, "totalAmount": 65, "fraudLabel": 0}
+{"customerID": 9655952507, "basket": [0, 4], "zipCode": 21648, "totalAmount": 212, "fraudLabel": 0}
+{"customerID": 4198346673, "basket": [4, 3, 4], "zipCode": 33858, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 9927883719, "basket": [4, 3, 1, 2], "zipCode": 90567, "totalAmount": 396, "fraudLabel": 0}
+{"customerID": 5357133375, "basket": [0, 4, 3, 3, 1], "zipCode": 32070, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 3565522263, "basket": [1], "zipCode": 29462, "totalAmount": 139, "fraudLabel": 0}
+{"customerID": 6247187407, "basket": [2], "zipCode": 25271, "totalAmount": 73, "fraudLabel": 0}
+{"customerID": 5775225999, "basket": [2, 4, 3, 2], "zipCode": 80324, "totalAmount": 44, "fraudLabel": 0}
+{"customerID": 2873987561, "basket": [2, 3, 3, 3, 2, 2, 0, 4, 1], "zipCode": 13629, "totalAmount": 594, "fraudLabel": 0}
+{"customerID": 8512452559, "basket": [4, 0, 0, 3, 4, 0], "zipCode": 42798, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 9724404195, "basket": [3, 1, 2, 1, 4, 0, 2, 2], "zipCode": 83210, "totalAmount": 296, "fraudLabel": 0}
+{"customerID": 6351256226, "basket": [1, 1, 3, 0], "zipCode": 65827, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 6102143114, "basket": [3, 1, 0, 3, 4, 0], "zipCode": 50683, "totalAmount": 228, "fraudLabel": 0}
+{"customerID": 7377139325, "basket": [1], "zipCode": 42623, "totalAmount": 57, "fraudLabel": 0}
+{"customerID": 4084246837, "basket": [4, 3], "zipCode": 72162, "totalAmount": 76, "fraudLabel": 1}
+{"customerID": 9443765789, "basket": [3, 4, 0, 0, 2, 1, 2, 4, 2], "zipCode": 95028, "totalAmount": 315, "fraudLabel": 0}
+{"customerID": 8478157810, "basket": [2, 0, 4, 0], "zipCode": 99605, "totalAmount": 128, "fraudLabel": 0}
+{"customerID": 3709629236, "basket": [0, 2, 3], "zipCode": 54805, "totalAmount": 42, "fraudLabel": 0}
+{"customerID": 2918606959, "basket": [3, 2, 3, 0, 3, 2], "zipCode": 14190, "totalAmount": 270, "fraudLabel": 0}
+{"customerID": 1228385718, "basket": [2, 2, 2, 3, 2, 4, 3], "zipCode": 88339, "totalAmount": 497, "fraudLabel": 0}
+{"customerID": 8663382357, "basket": [2, 3, 1], "zipCode": 29975, "totalAmount": 222, "fraudLabel": 0}
+{"customerID": 6307992808, "basket": [1, 2, 3, 4, 2], "zipCode": 25364, "totalAmount": 205, "fraudLabel": 0}
+{"customerID": 3299805506, "basket": [0, 0, 1, 4, 0, 2, 2, 0, 0], "zipCode": 11737, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 3742737754, "basket": [1, 4, 0, 3, 3, 2, 4, 2], "zipCode": 62342, "totalAmount": 344, "fraudLabel": 0}
+{"customerID": 7755253164, "basket": [3, 1, 4, 4, 4, 1, 4, 2, 4], "zipCode": 34407, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 2098706526, "basket": [2, 2, 0], "zipCode": 91428, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 5689682582, "basket": [1, 2, 4, 1], "zipCode": 41865, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 4055737546, "basket": [1, 1, 4, 0, 0, 4, 3, 4], "zipCode": 10443, "totalAmount": 648, "fraudLabel": 0}
+{"customerID": 6202385330, "basket": [1, 3, 3, 1, 0, 0], "zipCode": 87123, "totalAmount": 204, "fraudLabel": 0}
+{"customerID": 6820562441, "basket": [3, 0, 2, 2, 3, 3, 4, 4], "zipCode": 77863, "totalAmount": 632, "fraudLabel": 0}
+{"customerID": 2823249626, "basket": [0, 4, 2, 4, 4, 3, 1], "zipCode": 31089, "totalAmount": 693, "fraudLabel": 0}
+{"customerID": 9533114399, "basket": [4, 2, 1], "zipCode": 54591, "totalAmount": 228, "fraudLabel": 0}
+{"customerID": 9026086389, "basket": [2, 1, 0, 0, 0, 4], "zipCode": 97969, "totalAmount": 402, "fraudLabel": 0}
+{"customerID": 9678651694, "basket": [2, 4, 2, 0, 4, 4], "zipCode": 81713, "totalAmount": 402, "fraudLabel": 0}
+{"customerID": 8020008206, "basket": [2, 0, 2, 0, 3], "zipCode": 61927, "totalAmount": 240, "fraudLabel": 0}
+{"customerID": 3319848797, "basket": [2, 2, 4], "zipCode": 26144, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 8901544604, "basket": [1, 4, 0], "zipCode": 12577, "totalAmount": 276, "fraudLabel": 0}
+{"customerID": 2852969462, "basket": [2, 3, 1, 4], "zipCode": 37481, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 9128094926, "basket": [1, 0, 1, 0, 2], "zipCode": 63501, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 4775008620, "basket": [4], "zipCode": 52786, "totalAmount": 67, "fraudLabel": 0}
+{"customerID": 2813847980, "basket": [2, 4, 4, 3, 1, 1], "zipCode": 72505, "totalAmount": 600, "fraudLabel": 0}
+{"customerID": 1351973806, "basket": [3, 0], "zipCode": 69020, "totalAmount": 82, "fraudLabel": 0}
+{"customerID": 4322401264, "basket": [0, 3, 0, 3], "zipCode": 93453, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 3695746937, "basket": [1, 1, 4], "zipCode": 42561, "totalAmount": 198, "fraudLabel": 0}
+{"customerID": 5715625869, "basket": [3, 0, 0, 0, 1], "zipCode": 86870, "totalAmount": 365, "fraudLabel": 0}
+{"customerID": 3154328842, "basket": [1, 1], "zipCode": 31006, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 6527499274, "basket": [2], "zipCode": 75022, "totalAmount": 25, "fraudLabel": 0}
+{"customerID": 9652401645, "basket": [0], "zipCode": 87551, "totalAmount": 22, "fraudLabel": 0}
+{"customerID": 9233566594, "basket": [3, 1, 1, 1], "zipCode": 61566, "totalAmount": 232, "fraudLabel": 0}
+{"customerID": 5124907921, "basket": [3], "zipCode": 30845, "totalAmount": 72, "fraudLabel": 0}
+{"customerID": 2029563116, "basket": [1, 3, 4], "zipCode": 49696, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 3188827491, "basket": [2, 4, 2, 0, 3], "zipCode": 39999, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 6336127448, "basket": [1, 2, 4, 2, 2, 1], "zipCode": 44039, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 4234259886, "basket": [0, 2, 3, 1, 1], "zipCode": 49620, "totalAmount": 355, "fraudLabel": 0}
+{"customerID": 3073019263, "basket": [2, 4, 0, 1], "zipCode": 40953, "totalAmount": 244, "fraudLabel": 0}
+{"customerID": 9499469302, "basket": [0, 1], "zipCode": 85833, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 2384722111, "basket": [4], "zipCode": 90163, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 8217150240, "basket": [4, 2, 4, 2, 4, 4], "zipCode": 98745, "totalAmount": 510, "fraudLabel": 0}
+{"customerID": 9993253075, "basket": [2, 1, 1], "zipCode": 29386, "totalAmount": 234, "fraudLabel": 0}
+{"customerID": 7624361271, "basket": [1, 3, 4], "zipCode": 76558, "totalAmount": 186, "fraudLabel": 0}
+{"customerID": 6462397028, "basket": [3, 2, 2, 1, 1, 3], "zipCode": 27369, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 9006841994, "basket": [2, 1], "zipCode": 39638, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 3112762532, "basket": [4, 0, 2, 4, 2, 2], "zipCode": 90817, "totalAmount": 522, "fraudLabel": 0}
+{"customerID": 7135524449, "basket": [2], "zipCode": 82131, "totalAmount": 107, "fraudLabel": 0}
+{"customerID": 3103695385, "basket": [4, 1, 3, 2, 1, 2, 2, 1, 3, 1], "zipCode": 27380, "totalAmount": 490, "fraudLabel": 0}
+{"customerID": 2002891418, "basket": [1, 1], "zipCode": 52682, "totalAmount": 74, "fraudLabel": 0}
+{"customerID": 5903946270, "basket": [2, 3], "zipCode": 88906, "totalAmount": 170, "fraudLabel": 0}
+{"customerID": 8564409478, "basket": [4, 4, 0, 3, 0, 1, 3], "zipCode": 89195, "totalAmount": 140, "fraudLabel": 0}
+{"customerID": 7758125913, "basket": [0], "zipCode": 13048, "totalAmount": 34, "fraudLabel": 0}
+{"customerID": 6348239660, "basket": [4, 0, 0, 4, 3, 0, 3, 1, 3], "zipCode": 93273, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 1729484204, "basket": [2, 2, 2, 4, 3, 0, 4], "zipCode": 83305, "totalAmount": 441, "fraudLabel": 0}
+{"customerID": 2780781186, "basket": [2], "zipCode": 29436, "totalAmount": 107, "fraudLabel": 0}
+{"customerID": 7293591494, "basket": [3, 0], "zipCode": 33247, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 2945673682, "basket": [2], "zipCode": 98752, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 1500913534, "basket": [4, 0, 4, 2, 4], "zipCode": 46044, "totalAmount": 295, "fraudLabel": 0}
+{"customerID": 1835967690, "basket": [1, 0, 4, 4], "zipCode": 58946, "totalAmount": 144, "fraudLabel": 0}
+{"customerID": 7125937778, "basket": [2, 3, 4, 2, 2, 2, 2, 0], "zipCode": 31439, "totalAmount": 272, "fraudLabel": 0}
+{"customerID": 9219399889, "basket": [2, 1, 2, 3], "zipCode": 66396, "totalAmount": 272, "fraudLabel": 0}
+{"customerID": 7984887256, "basket": [1, 3, 2, 2, 2, 1, 2], "zipCode": 94015, "totalAmount": 294, "fraudLabel": 0}
+{"customerID": 7926832893, "basket": [1, 1], "zipCode": 56513, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 3626647916, "basket": [0], "zipCode": 28951, "totalAmount": 59, "fraudLabel": 0}
+{"customerID": 4923953239, "basket": [0, 1, 2, 3, 3, 1, 1], "zipCode": 97870, "totalAmount": 406, "fraudLabel": 0}
+{"customerID": 1610445702, "basket": [3], "zipCode": 77423, "totalAmount": 49, "fraudLabel": 0}
+{"customerID": 4940651677, "basket": [2, 3], "zipCode": 35481, "totalAmount": 100, "fraudLabel": 0}
+{"customerID": 1197217086, "basket": [2, 4, 3, 2, 4], "zipCode": 51297, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1568631244, "basket": [2, 3, 4, 4, 0, 2, 1], "zipCode": 76342, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 2076472674, "basket": [3], "zipCode": 13422, "totalAmount": 53, "fraudLabel": 0}
+{"customerID": 3714910552, "basket": [1, 0, 1, 2, 1, 1, 0, 2, 3], "zipCode": 21645, "totalAmount": 279, "fraudLabel": 0}
+{"customerID": 3580240679, "basket": [4], "zipCode": 73848, "totalAmount": 24, "fraudLabel": 1}
+{"customerID": 7395451095, "basket": [4, 4, 2, 2], "zipCode": 71059, "totalAmount": 304, "fraudLabel": 1}
+{"customerID": 6368589627, "basket": [3], "zipCode": 76665, "totalAmount": 55, "fraudLabel": 0}
+{"customerID": 3467197918, "basket": [2, 0, 4], "zipCode": 84165, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 7880503487, "basket": [2, 0, 1, 0, 4, 3, 4, 2, 3], "zipCode": 13498, "totalAmount": 441, "fraudLabel": 0}
+{"customerID": 1658455365, "basket": [2], "zipCode": 67036, "totalAmount": 41, "fraudLabel": 0}
+{"customerID": 2554394129, "basket": [0, 3, 3, 3, 2, 2, 3, 3, 4, 4, 2, 2], "zipCode": 46330, "totalAmount": 708, "fraudLabel": 0}
+{"customerID": 3307319641, "basket": [1, 0, 0, 0, 1], "zipCode": 84017, "totalAmount": 375, "fraudLabel": 0}
+{"customerID": 4562143894, "basket": [1, 4, 4, 4], "zipCode": 92989, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 5766725913, "basket": [1], "zipCode": 29018, "totalAmount": 37, "fraudLabel": 0}
+{"customerID": 3233128541, "basket": [0, 3, 4, 3, 4], "zipCode": 79568, "totalAmount": 455, "fraudLabel": 0}
+{"customerID": 2310977587, "basket": [2, 1, 4, 2, 1, 3], "zipCode": 89658, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 6781973288, "basket": [1, 4, 0, 4, 3, 4, 1, 0, 4], "zipCode": 45985, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 2965145029, "basket": [4], "zipCode": 53228, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 5704241948, "basket": [2, 4, 4, 3, 4, 3], "zipCode": 38605, "totalAmount": 348, "fraudLabel": 0}
+{"customerID": 5244555847, "basket": [3, 4, 1, 1, 1, 4, 1, 3, 3], "zipCode": 40681, "totalAmount": 99, "fraudLabel": 0}
+{"customerID": 6047193095, "basket": [4, 1, 0, 1, 1, 1, 4, 0, 0, 1, 4], "zipCode": 71068, "totalAmount": 770, "fraudLabel": 0}
+{"customerID": 8934843619, "basket": [0, 4, 0, 2, 3, 1, 1, 0, 1, 0, 0], "zipCode": 58072, "totalAmount": 385, "fraudLabel": 0}
+{"customerID": 5605133205, "basket": [3], "zipCode": 27558, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 4300520382, "basket": [1, 0, 0, 4, 2, 3, 4, 1], "zipCode": 24256, "totalAmount": 824, "fraudLabel": 0}
+{"customerID": 1973777145, "basket": [1], "zipCode": 88799, "totalAmount": 22, "fraudLabel": 0}
+{"customerID": 5206274708, "basket": [1, 1, 1, 2, 3], "zipCode": 70084, "totalAmount": 85, "fraudLabel": 0}
+{"customerID": 4597307365, "basket": [4, 2, 4, 0, 2, 4, 3, 0], "zipCode": 47713, "totalAmount": 472, "fraudLabel": 0}
+{"customerID": 2954362786, "basket": [4], "zipCode": 70783, "totalAmount": 39, "fraudLabel": 0}
+{"customerID": 3274486363, "basket": [4, 2, 0, 2], "zipCode": 49743, "totalAmount": 276, "fraudLabel": 0}
+{"customerID": 9134722763, "basket": [4, 2, 2, 2], "zipCode": 77680, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 7810096748, "basket": [3, 3, 2, 3, 4], "zipCode": 69247, "totalAmount": 390, "fraudLabel": 0}
+{"customerID": 3969148654, "basket": [1, 1, 4, 3, 2, 1], "zipCode": 23459, "totalAmount": 270, "fraudLabel": 0}
+{"customerID": 6558959425, "basket": [3], "zipCode": 25304, "totalAmount": 95, "fraudLabel": 0}
+{"customerID": 9814610793, "basket": [4, 4], "zipCode": 93669, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 8759448197, "basket": [1], "zipCode": 77002, "totalAmount": 62, "fraudLabel": 0}
+{"customerID": 3904687804, "basket": [0, 1, 3, 2], "zipCode": 94316, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 4913210037, "basket": [3, 2, 3, 1, 2, 0], "zipCode": 84007, "totalAmount": 102, "fraudLabel": 0}
+{"customerID": 8105522412, "basket": [2, 2, 3, 2, 3, 0, 3, 0, 3, 3, 1], "zipCode": 85618, "totalAmount": 517, "fraudLabel": 0}
+{"customerID": 7719469569, "basket": [3, 2, 0, 2, 3, 2, 1, 2, 0, 4], "zipCode": 98635, "totalAmount": 840, "fraudLabel": 0}
+{"customerID": 4848656079, "basket": [4, 4, 4, 0, 2, 0, 2, 0], "zipCode": 97775, "totalAmount": 624, "fraudLabel": 0}
+{"customerID": 5831587699, "basket": [3], "zipCode": 76990, "totalAmount": 42, "fraudLabel": 0}
+{"customerID": 1518816215, "basket": [0, 1, 1], "zipCode": 28361, "totalAmount": 147, "fraudLabel": 0}
+{"customerID": 7973180719, "basket": [2, 4, 0, 2, 0], "zipCode": 28765, "totalAmount": 285, "fraudLabel": 0}
+{"customerID": 7550338933, "basket": [3, 2, 3, 3, 1, 2, 4, 1, 3], "zipCode": 79252, "totalAmount": 207, "fraudLabel": 0}
+{"customerID": 2850136890, "basket": [2, 0, 2, 1, 4, 1, 4, 2], "zipCode": 14578, "totalAmount": 632, "fraudLabel": 0}
+{"customerID": 2566073314, "basket": [3], "zipCode": 42439, "totalAmount": 37, "fraudLabel": 0}
+{"customerID": 3146766598, "basket": [4, 0, 4, 1, 1, 4, 2, 1], "zipCode": 54214, "totalAmount": 336, "fraudLabel": 0}
+{"customerID": 4998816712, "basket": [4, 1, 0, 4, 2], "zipCode": 27904, "totalAmount": 175, "fraudLabel": 0}
+{"customerID": 5296866912, "basket": [4], "zipCode": 95996, "totalAmount": 54, "fraudLabel": 0}
+{"customerID": 9130203113, "basket": [0, 2, 2, 2, 1, 4, 3, 2], "zipCode": 94010, "totalAmount": 480, "fraudLabel": 0}
+{"customerID": 7438647673, "basket": [2, 0, 4], "zipCode": 49179, "totalAmount": 291, "fraudLabel": 0}
+{"customerID": 8852938681, "basket": [4, 1, 3, 0, 3, 1, 4, 1, 4], "zipCode": 95650, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 1816378117, "basket": [0, 3], "zipCode": 69505, "totalAmount": 148, "fraudLabel": 0}
+{"customerID": 8817186941, "basket": [1, 2, 3, 4, 4], "zipCode": 68511, "totalAmount": 195, "fraudLabel": 0}
+{"customerID": 7071664116, "basket": [1, 0, 4, 0, 3, 1], "zipCode": 97244, "totalAmount": 222, "fraudLabel": 0}
+{"customerID": 5077135202, "basket": [4], "zipCode": 71447, "totalAmount": 59, "fraudLabel": 0}
+{"customerID": 8853128205, "basket": [2], "zipCode": 74187, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 4708395570, "basket": [4], "zipCode": 82282, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 1198659215, "basket": [4, 4, 0, 2, 3, 0, 1], "zipCode": 73226, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 9140504663, "basket": [4, 3, 4, 4], "zipCode": 28193, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 7758250710, "basket": [4, 1, 4, 4, 2, 0, 4, 1, 4], "zipCode": 87577, "totalAmount": 1026, "fraudLabel": 0}
+{"customerID": 2167058935, "basket": [0, 4, 0, 0, 3, 0], "zipCode": 10659, "totalAmount": 312, "fraudLabel": 0}
+{"customerID": 5264927512, "basket": [4, 4, 4], "zipCode": 26644, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 8263226823, "basket": [3, 4, 2, 3], "zipCode": 55614, "totalAmount": 128, "fraudLabel": 0}
+{"customerID": 5306685631, "basket": [0], "zipCode": 65654, "totalAmount": 47, "fraudLabel": 0}
+{"customerID": 6355824450, "basket": [3, 4, 1, 1, 1, 1], "zipCode": 56338, "totalAmount": 336, "fraudLabel": 0}
+{"customerID": 3180559528, "basket": [4, 3, 3, 2], "zipCode": 85057, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 9934867563, "basket": [1, 1, 4, 2, 1, 1, 1, 0, 1], "zipCode": 74846, "totalAmount": 738, "fraudLabel": 0}
+{"customerID": 5011725185, "basket": [4, 1, 2], "zipCode": 60192, "totalAmount": 57, "fraudLabel": 0}
+{"customerID": 5166156491, "basket": [0, 4, 1], "zipCode": 25453, "totalAmount": 234, "fraudLabel": 0}
+{"customerID": 6988608813, "basket": [4, 0, 3, 0, 3, 1, 4, 0], "zipCode": 10592, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 1159462652, "basket": [1], "zipCode": 55279, "totalAmount": 56, "fraudLabel": 0}
+{"customerID": 3095623648, "basket": [4, 2, 2, 2, 2], "zipCode": 94182, "totalAmount": 235, "fraudLabel": 0}
+{"customerID": 9811698473, "basket": [2, 0, 1, 2, 2, 0, 1], "zipCode": 92470, "totalAmount": 434, "fraudLabel": 0}
+{"customerID": 1721418019, "basket": [2, 3, 1, 2, 0], "zipCode": 93683, "totalAmount": 425, "fraudLabel": 0}
+{"customerID": 9043439698, "basket": [3, 3, 1, 0, 3, 4, 4, 1, 0], "zipCode": 79551, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 6620883493, "basket": [0, 0, 3, 3, 0, 3, 3, 2, 2], "zipCode": 16498, "totalAmount": 135, "fraudLabel": 0}
+{"customerID": 7810959567, "basket": [0, 2, 0, 0, 1, 4, 2, 1], "zipCode": 18006, "totalAmount": 496, "fraudLabel": 0}
+{"customerID": 1682008862, "basket": [0, 0, 1, 3], "zipCode": 80432, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 2254630438, "basket": [3, 0, 3, 4, 1, 1, 0], "zipCode": 14505, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 6825049397, "basket": [2, 2, 3], "zipCode": 76227, "totalAmount": 285, "fraudLabel": 0}
+{"customerID": 6795542502, "basket": [0, 1, 1, 1, 0, 2], "zipCode": 20846, "totalAmount": 102, "fraudLabel": 0}
+{"customerID": 7759323691, "basket": [2, 2, 2, 3, 3, 4, 3, 4, 0], "zipCode": 16044, "totalAmount": 747, "fraudLabel": 0}
+{"customerID": 7501679917, "basket": [1, 2, 3, 2, 1, 4], "zipCode": 84645, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 4755903030, "basket": [0, 3, 2, 2, 1], "zipCode": 59708, "totalAmount": 405, "fraudLabel": 0}
+{"customerID": 1993141354, "basket": [4, 2, 2], "zipCode": 40163, "totalAmount": 39, "fraudLabel": 0}
+{"customerID": 7676096412, "basket": [3, 3, 2, 2], "zipCode": 86235, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 1889293605, "basket": [2, 1, 0, 3, 1], "zipCode": 69339, "totalAmount": 295, "fraudLabel": 0}
+{"customerID": 1996765293, "basket": [4, 4, 2], "zipCode": 81710, "totalAmount": 87, "fraudLabel": 0}
+{"customerID": 6771141991, "basket": [2, 3, 2, 0, 4, 3, 3, 2], "zipCode": 56713, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 7594214672, "basket": [4, 1, 4, 3, 1], "zipCode": 51856, "totalAmount": 335, "fraudLabel": 0}
+{"customerID": 5692960961, "basket": [3, 0, 0, 4, 2], "zipCode": 68457, "totalAmount": 195, "fraudLabel": 0}
+{"customerID": 9172647767, "basket": [2, 2, 3], "zipCode": 54340, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 2639037131, "basket": [1, 3, 3, 0], "zipCode": 20106, "totalAmount": 264, "fraudLabel": 0}
+{"customerID": 5386876636, "basket": [4, 0, 0, 2, 0], "zipCode": 87489, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 7296149758, "basket": [1, 2, 4], "zipCode": 82826, "totalAmount": 138, "fraudLabel": 0}
+{"customerID": 7961810110, "basket": [0, 1, 2, 3, 4], "zipCode": 69478, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 9343321471, "basket": [2, 0, 1, 1, 3, 4, 4, 4, 3], "zipCode": 15632, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 2936967011, "basket": [3, 0, 0, 1, 2, 1, 4, 2, 1, 4], "zipCode": 67539, "totalAmount": 1010, "fraudLabel": 0}
+{"customerID": 9308081615, "basket": [2, 3], "zipCode": 19339, "totalAmount": 212, "fraudLabel": 0}
+{"customerID": 8066425403, "basket": [4, 2, 4, 0, 4, 3, 0], "zipCode": 37564, "totalAmount": 448, "fraudLabel": 0}
+{"customerID": 5366099748, "basket": [4, 0, 1, 3, 2], "zipCode": 12769, "totalAmount": 160, "fraudLabel": 0}
+{"customerID": 4973283275, "basket": [3], "zipCode": 24336, "totalAmount": 31, "fraudLabel": 0}
+{"customerID": 5835543207, "basket": [4], "zipCode": 27365, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 5842114369, "basket": [3], "zipCode": 36451, "totalAmount": 53, "fraudLabel": 0}
+{"customerID": 6652420664, "basket": [0, 0, 1, 1, 0], "zipCode": 34979, "totalAmount": 400, "fraudLabel": 0}
+{"customerID": 7753539832, "basket": [4, 0], "zipCode": 26398, "totalAmount": 78, "fraudLabel": 0}
+{"customerID": 6640919476, "basket": [2, 4, 2], "zipCode": 80818, "totalAmount": 183, "fraudLabel": 0}
+{"customerID": 2451517276, "basket": [2], "zipCode": 98327, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 8343416626, "basket": [1], "zipCode": 42101, "totalAmount": 28, "fraudLabel": 0}
+{"customerID": 7482349372, "basket": [1, 3], "zipCode": 36539, "totalAmount": 54, "fraudLabel": 0}
+{"customerID": 9166117752, "basket": [4, 0, 1, 3, 4, 3, 0], "zipCode": 25675, "totalAmount": 294, "fraudLabel": 0}
+{"customerID": 3779826025, "basket": [1], "zipCode": 33281, "totalAmount": 41, "fraudLabel": 0}
+{"customerID": 7543842007, "basket": [4], "zipCode": 42493, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 3744079005, "basket": [4, 4, 4, 2], "zipCode": 10226, "totalAmount": 524, "fraudLabel": 0}
+{"customerID": 2175982550, "basket": [0, 1, 1, 4, 3, 2, 1], "zipCode": 52797, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 8554499605, "basket": [2, 3, 2, 0, 2, 2], "zipCode": 17993, "totalAmount": 564, "fraudLabel": 0}
+{"customerID": 7112394154, "basket": [0, 1], "zipCode": 27342, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 1579637456, "basket": [3, 2, 4, 4, 0, 1, 3, 0], "zipCode": 83951, "totalAmount": 584, "fraudLabel": 0}
+{"customerID": 8174230980, "basket": [4, 2, 3], "zipCode": 84671, "totalAmount": 162, "fraudLabel": 0}
+{"customerID": 7225433229, "basket": [2, 4, 2, 4, 2], "zipCode": 11559, "totalAmount": 145, "fraudLabel": 0}
+{"customerID": 9534903189, "basket": [3, 4, 4, 1, 1, 2], "zipCode": 63203, "totalAmount": 336, "fraudLabel": 0}
+{"customerID": 4199386305, "basket": [4, 3, 0, 4, 1, 0], "zipCode": 77391, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 1979408715, "basket": [4, 0, 4, 4, 4, 0, 0], "zipCode": 10584, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 3215421978, "basket": [4, 4, 0, 2, 1, 1], "zipCode": 15119, "totalAmount": 300, "fraudLabel": 0}
+{"customerID": 3003596907, "basket": [2], "zipCode": 45149, "totalAmount": 78, "fraudLabel": 0}
+{"customerID": 3638826845, "basket": [1, 2, 4, 2, 4, 2], "zipCode": 20225, "totalAmount": 486, "fraudLabel": 0}
+{"customerID": 3679020372, "basket": [0, 4, 1, 3, 0, 3], "zipCode": 62722, "totalAmount": 342, "fraudLabel": 0}
+{"customerID": 1295718003, "basket": [1, 3, 2, 2, 1, 4], "zipCode": 14202, "totalAmount": 480, "fraudLabel": 0}
+{"customerID": 5986628882, "basket": [2, 2, 3], "zipCode": 81551, "totalAmount": 180, "fraudLabel": 0}
+{"customerID": 3621738772, "basket": [1, 1], "zipCode": 14565, "totalAmount": 26, "fraudLabel": 0}
+{"customerID": 8313312650, "basket": [2, 3, 1], "zipCode": 62834, "totalAmount": 72, "fraudLabel": 0}
+{"customerID": 1814655559, "basket": [3, 4, 2, 4, 0, 1, 3, 3], "zipCode": 46385, "totalAmount": 632, "fraudLabel": 0}
+{"customerID": 5561535310, "basket": [2, 4, 3], "zipCode": 70146, "totalAmount": 138, "fraudLabel": 0}
+{"customerID": 8713896797, "basket": [4, 1, 4, 4, 4, 1, 2], "zipCode": 10646, "totalAmount": 511, "fraudLabel": 0}
+{"customerID": 1089887182, "basket": [3, 2, 1, 3, 4, 3, 1, 2], "zipCode": 66350, "totalAmount": 504, "fraudLabel": 0}
+{"customerID": 1392543405, "basket": [2, 1, 0, 1, 3, 4, 3, 2, 1], "zipCode": 94072, "totalAmount": 540, "fraudLabel": 0}
+{"customerID": 3451778222, "basket": [2, 0, 4, 4], "zipCode": 76130, "totalAmount": 172, "fraudLabel": 0}
+{"customerID": 3651873049, "basket": [3, 0, 2, 3, 3, 4, 2, 1, 4, 2], "zipCode": 84758, "totalAmount": 590, "fraudLabel": 1}
+{"customerID": 1917565032, "basket": [1, 0, 4, 1, 3, 3, 1], "zipCode": 34458, "totalAmount": 315, "fraudLabel": 0}
+{"customerID": 1207364769, "basket": [1, 4, 3, 2, 2, 4, 3], "zipCode": 17049, "totalAmount": 581, "fraudLabel": 0}
+{"customerID": 7880561222, "basket": [0, 3, 0, 0, 1], "zipCode": 64991, "totalAmount": 380, "fraudLabel": 0}
+{"customerID": 1351689433, "basket": [3, 1, 1, 2], "zipCode": 34282, "totalAmount": 244, "fraudLabel": 0}
+{"customerID": 2567160606, "basket": [0, 4], "zipCode": 95062, "totalAmount": 116, "fraudLabel": 0}
+{"customerID": 1217232036, "basket": [3, 4, 1, 0, 1, 0, 2, 3], "zipCode": 29913, "totalAmount": 440, "fraudLabel": 0}
+{"customerID": 7928308982, "basket": [3, 3, 0, 2], "zipCode": 79302, "totalAmount": 396, "fraudLabel": 0}
+{"customerID": 6808318800, "basket": [2, 0, 1, 1, 3], "zipCode": 26617, "totalAmount": 240, "fraudLabel": 0}
+{"customerID": 1284973375, "basket": [3, 4, 4, 4, 4], "zipCode": 30818, "totalAmount": 190, "fraudLabel": 1}
+{"customerID": 7844568002, "basket": [0, 3, 1, 0, 4, 3], "zipCode": 26888, "totalAmount": 186, "fraudLabel": 0}
+{"customerID": 9059979609, "basket": [0, 1, 2, 0, 1, 1, 4], "zipCode": 18636, "totalAmount": 245, "fraudLabel": 0}
+{"customerID": 3211362525, "basket": [0, 3, 3, 2, 4, 0, 2, 0], "zipCode": 71280, "totalAmount": 472, "fraudLabel": 0}
+{"customerID": 4452851474, "basket": [1, 1, 4, 2, 4, 4], "zipCode": 36017, "totalAmount": 510, "fraudLabel": 0}
+{"customerID": 8328695484, "basket": [1, 4, 4, 0, 4, 1], "zipCode": 15761, "totalAmount": 468, "fraudLabel": 0}
+{"customerID": 6605312500, "basket": [1, 1, 0], "zipCode": 62769, "totalAmount": 141, "fraudLabel": 0}
+{"customerID": 1376852020, "basket": [2, 2, 1], "zipCode": 32984, "totalAmount": 219, "fraudLabel": 0}
+{"customerID": 1850587868, "basket": [0], "zipCode": 34042, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 8829774190, "basket": [3, 0, 4, 4, 2], "zipCode": 25410, "totalAmount": 310, "fraudLabel": 0}
+{"customerID": 4586190209, "basket": [1, 2, 3, 2, 3], "zipCode": 72744, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1064311573, "basket": [2], "zipCode": 49250, "totalAmount": 42, "fraudLabel": 0}
+{"customerID": 2112200201, "basket": [0, 4, 2, 1, 1, 2], "zipCode": 80998, "totalAmount": 390, "fraudLabel": 0}
+{"customerID": 8890100753, "basket": [3, 3, 3, 2, 2, 3], "zipCode": 30776, "totalAmount": 282, "fraudLabel": 0}
+{"customerID": 9038550700, "basket": [1], "zipCode": 88962, "totalAmount": 15, "fraudLabel": 0}
+{"customerID": 6258361604, "basket": [4, 4, 3, 0], "zipCode": 21310, "totalAmount": 128, "fraudLabel": 1}
+{"customerID": 9221014945, "basket": [1, 3, 2, 2, 4, 0, 1, 3], "zipCode": 50914, "totalAmount": 416, "fraudLabel": 0}
+{"customerID": 3551269305, "basket": [0, 3, 1, 0, 1], "zipCode": 78416, "totalAmount": 365, "fraudLabel": 0}
+{"customerID": 2058175054, "basket": [2, 1, 0, 4, 0, 0, 2, 1], "zipCode": 43853, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 4595867773, "basket": [3], "zipCode": 73304, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 8583506934, "basket": [2, 0, 4, 2, 4, 0, 2], "zipCode": 83966, "totalAmount": 308, "fraudLabel": 0}
+{"customerID": 1403256075, "basket": [3, 0, 0, 3, 1], "zipCode": 82689, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1654341641, "basket": [3, 4, 4, 2, 0, 4], "zipCode": 14295, "totalAmount": 270, "fraudLabel": 0}
+{"customerID": 8743797288, "basket": [2, 2], "zipCode": 11698, "totalAmount": 180, "fraudLabel": 0}
+{"customerID": 5157766738, "basket": [3, 0, 2], "zipCode": 23239, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 7075158178, "basket": [3, 0, 1, 1, 1], "zipCode": 89426, "totalAmount": 385, "fraudLabel": 0}
+{"customerID": 1996190755, "basket": [4, 1, 1, 3, 3], "zipCode": 97356, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 1626520960, "basket": [4, 3, 1, 3, 0], "zipCode": 24512, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 7381458223, "basket": [1, 1, 2, 3, 2, 0, 4, 3], "zipCode": 43473, "totalAmount": 1008, "fraudLabel": 0}
+{"customerID": 3375985423, "basket": [4, 0, 2], "zipCode": 89703, "totalAmount": 237, "fraudLabel": 0}
+{"customerID": 8997414981, "basket": [3, 4, 1, 1, 1, 4, 3, 2, 4, 1, 2], "zipCode": 30895, "totalAmount": 341, "fraudLabel": 0}
+{"customerID": 2405023488, "basket": [4, 0, 2, 4, 3, 3], "zipCode": 77835, "totalAmount": 126, "fraudLabel": 0}
+{"customerID": 6168590513, "basket": [3, 0, 3, 2], "zipCode": 70219, "totalAmount": 316, "fraudLabel": 0}
+{"customerID": 2320267839, "basket": [2, 4], "zipCode": 78754, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 5052328671, "basket": [1, 2, 3, 3, 4, 3, 4, 0], "zipCode": 41611, "totalAmount": 368, "fraudLabel": 0}
+{"customerID": 4764398933, "basket": [3, 2, 1, 1, 1, 1, 1, 3, 4], "zipCode": 61311, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 4544166866, "basket": [2, 0, 2, 2], "zipCode": 65881, "totalAmount": 256, "fraudLabel": 0}
+{"customerID": 2625650304, "basket": [2, 4, 3, 3, 0, 3, 0], "zipCode": 46844, "totalAmount": 616, "fraudLabel": 0}
+{"customerID": 5105936244, "basket": [2, 1, 3, 2, 3, 0, 1, 1, 3, 0, 0], "zipCode": 76215, "totalAmount": 594, "fraudLabel": 0}
+{"customerID": 2474379434, "basket": [2], "zipCode": 99511, "totalAmount": 78, "fraudLabel": 0}
+{"customerID": 4621813889, "basket": [3, 0, 0, 4], "zipCode": 67569, "totalAmount": 344, "fraudLabel": 0}
+{"customerID": 7599450782, "basket": [3, 2, 1], "zipCode": 20867, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 4374232770, "basket": [3, 3, 1, 4, 2, 1, 3, 2, 4], "zipCode": 40679, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 2033407588, "basket": [1, 2, 1, 4], "zipCode": 79508, "totalAmount": 208, "fraudLabel": 0}
+{"customerID": 4683164010, "basket": [3, 0, 4, 3, 0, 1, 3], "zipCode": 69635, "totalAmount": 147, "fraudLabel": 0}
+{"customerID": 9125658940, "basket": [3, 4, 2, 1, 0, 0, 3, 0], "zipCode": 84868, "totalAmount": 640, "fraudLabel": 0}
+{"customerID": 1667516365, "basket": [3, 3, 4, 4], "zipCode": 35535, "totalAmount": 128, "fraudLabel": 0}
+{"customerID": 2801406595, "basket": [4, 2, 1, 2, 1], "zipCode": 53506, "totalAmount": 310, "fraudLabel": 0}
+{"customerID": 5448180191, "basket": [4, 1, 2, 0, 1, 3, 1, 1, 4, 1], "zipCode": 18586, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 9014271028, "basket": [4], "zipCode": 82862, "totalAmount": 59, "fraudLabel": 0}
+{"customerID": 9690809878, "basket": [4, 1, 2], "zipCode": 93644, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 6315822969, "basket": [0, 3, 1, 3, 1, 1], "zipCode": 35818, "totalAmount": 330, "fraudLabel": 0}
+{"customerID": 8861832098, "basket": [0, 4, 3, 0, 0, 4, 4, 1, 0, 3, 1, 1], "zipCode": 91410, "totalAmount": 744, "fraudLabel": 0}
+{"customerID": 5914587241, "basket": [3, 0, 2, 0], "zipCode": 35897, "totalAmount": 268, "fraudLabel": 0}
+{"customerID": 3446528534, "basket": [2, 3, 3, 0], "zipCode": 14216, "totalAmount": 476, "fraudLabel": 0}
+{"customerID": 4305341604, "basket": [3, 2, 2, 2], "zipCode": 57319, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 2643206352, "basket": [0], "zipCode": 68057, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 5840704806, "basket": [3, 2, 4, 0, 1, 4, 0, 3, 4, 1, 4], "zipCode": 47831, "totalAmount": 616, "fraudLabel": 0}
+{"customerID": 7498138349, "basket": [4, 2, 0, 2], "zipCode": 56170, "totalAmount": 328, "fraudLabel": 0}
+{"customerID": 9967113582, "basket": [2, 4, 0, 2], "zipCode": 12327, "totalAmount": 112, "fraudLabel": 0}
+{"customerID": 9675391739, "basket": [1], "zipCode": 40428, "totalAmount": 83, "fraudLabel": 0}
+{"customerID": 7356644474, "basket": [2, 1], "zipCode": 59261, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 9007749008, "basket": [0, 3], "zipCode": 65774, "totalAmount": 88, "fraudLabel": 0}
+{"customerID": 7698367273, "basket": [0, 2, 4, 1, 1, 4, 3, 4], "zipCode": 93384, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 7969034717, "basket": [4, 3, 2, 2, 1], "zipCode": 75438, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 9017796280, "basket": [2, 2, 3, 2, 2, 2, 2, 3, 2, 2], "zipCode": 33079, "totalAmount": 370, "fraudLabel": 0}
+{"customerID": 5331072430, "basket": [4, 2], "zipCode": 72907, "totalAmount": 82, "fraudLabel": 0}
+{"customerID": 3848477532, "basket": [1, 0, 4, 1, 3, 3, 2, 2, 1], "zipCode": 95473, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 5222331202, "basket": [2, 0, 1], "zipCode": 72078, "totalAmount": 159, "fraudLabel": 0}
+{"customerID": 4147139857, "basket": [1, 1, 1, 3, 0], "zipCode": 43144, "totalAmount": 215, "fraudLabel": 0}
+{"customerID": 6665596681, "basket": [4, 3, 4, 3], "zipCode": 25801, "totalAmount": 176, "fraudLabel": 0}
+{"customerID": 7407819278, "basket": [0], "zipCode": 69346, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 1751733481, "basket": [3, 0, 4, 4], "zipCode": 44259, "totalAmount": 284, "fraudLabel": 1}
+{"customerID": 7032302314, "basket": [4, 3, 4], "zipCode": 46231, "totalAmount": 135, "fraudLabel": 0}
+{"customerID": 1831314546, "basket": [2], "zipCode": 96804, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 4964535832, "basket": [4, 1, 0, 4, 1], "zipCode": 51689, "totalAmount": 250, "fraudLabel": 0}
+{"customerID": 5020000149, "basket": [3, 2, 2, 1], "zipCode": 20443, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 3284127622, "basket": [4], "zipCode": 24880, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 5349980326, "basket": [0, 4, 0, 3, 0, 0, 1, 2, 3], "zipCode": 38137, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 5277308676, "basket": [3, 1, 4, 1, 3, 1], "zipCode": 77369, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 3354655253, "basket": [3, 4, 3, 3, 0, 2, 3, 2, 2, 1], "zipCode": 62934, "totalAmount": 650, "fraudLabel": 0}
+{"customerID": 4449200217, "basket": [3, 2, 0], "zipCode": 85607, "totalAmount": 180, "fraudLabel": 0}
+{"customerID": 4985794946, "basket": [0], "zipCode": 76819, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 9502105822, "basket": [0], "zipCode": 49484, "totalAmount": 44, "fraudLabel": 0}
+{"customerID": 9539788918, "basket": [0, 4, 2, 4, 3, 4, 0], "zipCode": 41157, "totalAmount": 462, "fraudLabel": 0}
+{"customerID": 7521953680, "basket": [3, 4, 3, 2, 1, 3], "zipCode": 44680, "totalAmount": 198, "fraudLabel": 0}
+{"customerID": 9335295194, "basket": [2, 4, 1], "zipCode": 95699, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 1183248100, "basket": [1, 4, 4, 2, 4, 2], "zipCode": 11608, "totalAmount": 438, "fraudLabel": 0}
+{"customerID": 3205767542, "basket": [2, 1, 2, 1, 2, 2, 3, 4], "zipCode": 70099, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 8319433745, "basket": [2, 3, 3, 3, 2, 0], "zipCode": 43308, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 4447271462, "basket": [0, 3, 3, 1], "zipCode": 61626, "totalAmount": 408, "fraudLabel": 0}
+{"customerID": 7428247742, "basket": [0, 4, 2, 2, 0, 1, 1, 4], "zipCode": 51466, "totalAmount": 176, "fraudLabel": 0}
+{"customerID": 8659389741, "basket": [0, 3, 4, 0, 4, 4, 4, 0, 2], "zipCode": 97393, "totalAmount": 198, "fraudLabel": 0}
+{"customerID": 9016259001, "basket": [2, 0, 2], "zipCode": 90518, "totalAmount": 147, "fraudLabel": 0}
+{"customerID": 7865097553, "basket": [4, 3, 3, 2, 2], "zipCode": 39400, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 7256732442, "basket": [1, 2, 2, 0], "zipCode": 77196, "totalAmount": 200, "fraudLabel": 0}
+{"customerID": 2710002197, "basket": [2, 1, 3, 2, 1], "zipCode": 83443, "totalAmount": 145, "fraudLabel": 0}
+{"customerID": 5342957112, "basket": [2, 4, 3, 1], "zipCode": 33805, "totalAmount": 124, "fraudLabel": 0}
+{"customerID": 7592994062, "basket": [2, 0], "zipCode": 31077, "totalAmount": 72, "fraudLabel": 0}
+{"customerID": 9972592330, "basket": [2, 2, 2, 0, 1], "zipCode": 31860, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 6251388908, "basket": [1, 3, 0, 0, 0, 0], "zipCode": 85373, "totalAmount": 492, "fraudLabel": 0}
+{"customerID": 9857743198, "basket": [2, 1, 0, 1, 3], "zipCode": 24145, "totalAmount": 245, "fraudLabel": 0}
+{"customerID": 3814021819, "basket": [2, 4, 4, 3, 4, 2], "zipCode": 97188, "totalAmount": 354, "fraudLabel": 0}
+{"customerID": 7079084764, "basket": [1, 1, 1, 1, 1, 0, 1], "zipCode": 41821, "totalAmount": 273, "fraudLabel": 0}
+{"customerID": 7547726026, "basket": [1, 1, 3, 3, 1, 0], "zipCode": 83796, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 5340337016, "basket": [2], "zipCode": 22341, "totalAmount": 77, "fraudLabel": 0}
+{"customerID": 3437059942, "basket": [3], "zipCode": 28214, "totalAmount": 48, "fraudLabel": 0}
+{"customerID": 8820742515, "basket": [0, 0, 2, 1, 4, 4, 0], "zipCode": 63126, "totalAmount": 462, "fraudLabel": 0}
+{"customerID": 5582542263, "basket": [4], "zipCode": 91855, "totalAmount": 43, "fraudLabel": 0}
+{"customerID": 6320319526, "basket": [4, 1, 2, 4, 4, 3, 1, 3, 3], "zipCode": 24935, "totalAmount": 414, "fraudLabel": 0}
+{"customerID": 1646971404, "basket": [0, 3, 0, 3], "zipCode": 97617, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 6822525556, "basket": [2, 1, 3, 3, 0, 3, 2], "zipCode": 63206, "totalAmount": 371, "fraudLabel": 0}
+{"customerID": 5243361596, "basket": [1], "zipCode": 16313, "totalAmount": 41, "fraudLabel": 0}
+{"customerID": 2924462260, "basket": [2, 1, 1, 3, 3, 3, 0, 2, 4], "zipCode": 19815, "totalAmount": 288, "fraudLabel": 0}
+{"customerID": 6896424263, "basket": [2, 2, 4, 0, 4], "zipCode": 84360, "totalAmount": 185, "fraudLabel": 0}
+{"customerID": 2123506371, "basket": [4, 4, 2, 4, 1, 1], "zipCode": 80916, "totalAmount": 366, "fraudLabel": 0}
+{"customerID": 8944206867, "basket": [0, 0, 0, 3, 4], "zipCode": 79877, "totalAmount": 50, "fraudLabel": 0}
+{"customerID": 9006614746, "basket": [4, 0, 2, 3, 3], "zipCode": 22934, "totalAmount": 235, "fraudLabel": 0}
+{"customerID": 3389067819, "basket": [3, 1, 4, 4], "zipCode": 42452, "totalAmount": 392, "fraudLabel": 0}
+{"customerID": 4850164737, "basket": [0, 2, 2, 4, 1, 1, 4, 3, 4, 1, 0, 3], "zipCode": 51292, "totalAmount": 468, "fraudLabel": 0}
+{"customerID": 1627194992, "basket": [0, 0, 4, 0, 4, 2, 2, 0], "zipCode": 34340, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 9032377536, "basket": [3], "zipCode": 34842, "totalAmount": 12, "fraudLabel": 0}
+{"customerID": 8314727992, "basket": [1, 4], "zipCode": 63823, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 6164322683, "basket": [0, 0, 4], "zipCode": 33009, "totalAmount": 99, "fraudLabel": 0}
+{"customerID": 6611034402, "basket": [2, 2, 1, 2, 2, 1, 1, 0, 4], "zipCode": 55751, "totalAmount": 549, "fraudLabel": 0}
+{"customerID": 5023132527, "basket": [2, 2, 1], "zipCode": 39782, "totalAmount": 117, "fraudLabel": 0}
+{"customerID": 3046473748, "basket": [3, 0, 2, 2, 3, 4, 0, 1], "zipCode": 85746, "totalAmount": 440, "fraudLabel": 0}
+{"customerID": 2464263109, "basket": [4, 3, 2, 2, 0], "zipCode": 74581, "totalAmount": 170, "fraudLabel": 0}
+{"customerID": 5568521909, "basket": [1, 2, 4, 3, 3, 0, 0], "zipCode": 79647, "totalAmount": 308, "fraudLabel": 0}
+{"customerID": 4464983482, "basket": [3], "zipCode": 20811, "totalAmount": 11, "fraudLabel": 0}
+{"customerID": 7072148428, "basket": [3, 1, 3, 3, 2], "zipCode": 58848, "totalAmount": 85, "fraudLabel": 0}
+{"customerID": 8966122217, "basket": [3], "zipCode": 96480, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 3058997276, "basket": [0, 1, 4, 3, 4, 2, 2, 3, 0], "zipCode": 39558, "totalAmount": 495, "fraudLabel": 0}
+{"customerID": 6807526046, "basket": [2, 0, 2, 3, 1, 4], "zipCode": 72759, "totalAmount": 522, "fraudLabel": 0}
+{"customerID": 3728981184, "basket": [1, 3, 3], "zipCode": 93508, "totalAmount": 267, "fraudLabel": 0}
+{"customerID": 4912230811, "basket": [1, 2], "zipCode": 10065, "totalAmount": 116, "fraudLabel": 0}
+{"customerID": 4713448253, "basket": [1, 0, 2, 0, 2, 4, 3, 4, 0], "zipCode": 93894, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 4829249275, "basket": [2, 1], "zipCode": 50091, "totalAmount": 62, "fraudLabel": 0}
+{"customerID": 7422922983, "basket": [3, 3, 3, 2], "zipCode": 74122, "totalAmount": 316, "fraudLabel": 0}
+{"customerID": 5145733536, "basket": [1, 0, 0], "zipCode": 82616, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 7071209652, "basket": [3, 2, 3, 0, 0], "zipCode": 20947, "totalAmount": 250, "fraudLabel": 0}
+{"customerID": 9609603853, "basket": [1, 4, 2, 1, 0, 1, 2, 0, 1], "zipCode": 68403, "totalAmount": 135, "fraudLabel": 0}
+{"customerID": 3425166780, "basket": [3, 0, 2, 2], "zipCode": 36613, "totalAmount": 148, "fraudLabel": 0}
+{"customerID": 4853054679, "basket": [1, 1, 0, 0, 3], "zipCode": 22907, "totalAmount": 400, "fraudLabel": 0}
+{"customerID": 2320461019, "basket": [2, 0], "zipCode": 68091, "totalAmount": 34, "fraudLabel": 0}
+{"customerID": 9562785232, "basket": [2, 0, 4, 4, 4, 3, 4], "zipCode": 93365, "totalAmount": 623, "fraudLabel": 1}
+{"customerID": 5755602666, "basket": [2, 1, 1], "zipCode": 76030, "totalAmount": 141, "fraudLabel": 1}
+{"customerID": 6154397136, "basket": [1, 4, 3, 4, 3, 0], "zipCode": 67088, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 5799249701, "basket": [0, 0, 4, 0, 4, 3], "zipCode": 62531, "totalAmount": 732, "fraudLabel": 0}
+{"customerID": 3871308849, "basket": [0, 2, 0, 1, 4, 3, 1, 4, 4, 0], "zipCode": 36020, "totalAmount": 490, "fraudLabel": 0}
+{"customerID": 6379695107, "basket": [4, 1], "zipCode": 68348, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 5690662794, "basket": [4, 3], "zipCode": 91168, "totalAmount": 130, "fraudLabel": 0}
+{"customerID": 1961716827, "basket": [2], "zipCode": 58482, "totalAmount": 101, "fraudLabel": 0}
+{"customerID": 5242016137, "basket": [1, 1, 0, 2, 1, 2, 3, 3, 2], "zipCode": 24025, "totalAmount": 396, "fraudLabel": 0}
+{"customerID": 4473946666, "basket": [2, 2, 0, 4], "zipCode": 17310, "totalAmount": 300, "fraudLabel": 0}
+{"customerID": 5299417836, "basket": [4, 3], "zipCode": 36960, "totalAmount": 38, "fraudLabel": 0}
+{"customerID": 5950846413, "basket": [3], "zipCode": 80330, "totalAmount": 26, "fraudLabel": 0}
+{"customerID": 8381390653, "basket": [2], "zipCode": 41841, "totalAmount": 104, "fraudLabel": 0}
+{"customerID": 5027924464, "basket": [0], "zipCode": 47672, "totalAmount": 24, "fraudLabel": 0}
+{"customerID": 5211280025, "basket": [3, 3, 4, 0, 2, 2], "zipCode": 27093, "totalAmount": 318, "fraudLabel": 0}
+{"customerID": 2953330199, "basket": [4, 3, 1, 1, 3], "zipCode": 79266, "totalAmount": 640, "fraudLabel": 1}
+{"customerID": 7270360912, "basket": [3, 2, 1, 2, 4], "zipCode": 49504, "totalAmount": 345, "fraudLabel": 0}
+{"customerID": 4890344021, "basket": [4, 3, 0, 0, 4, 1], "zipCode": 72815, "totalAmount": 162, "fraudLabel": 0}
+{"customerID": 1089390112, "basket": [0, 4], "zipCode": 43464, "totalAmount": 144, "fraudLabel": 0}
+{"customerID": 9853690851, "basket": [1, 2, 2, 2], "zipCode": 28468, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 4686369744, "basket": [3], "zipCode": 55412, "totalAmount": 19, "fraudLabel": 0}
+{"customerID": 6018120393, "basket": [2, 0], "zipCode": 23547, "totalAmount": 176, "fraudLabel": 0}
+{"customerID": 5379569256, "basket": [4], "zipCode": 32060, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 6179116717, "basket": [0, 2, 3, 3, 2, 4, 0], "zipCode": 13893, "totalAmount": 406, "fraudLabel": 0}
+{"customerID": 8455771363, "basket": [2, 1, 0, 3, 1], "zipCode": 34251, "totalAmount": 140, "fraudLabel": 0}
+{"customerID": 9496664906, "basket": [1, 3, 4, 1, 1, 1], "zipCode": 17420, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 9625134842, "basket": [2, 3, 3, 1, 3, 0, 0, 2], "zipCode": 69667, "totalAmount": 320, "fraudLabel": 0}
+{"customerID": 1662364627, "basket": [3, 2, 0, 4, 2], "zipCode": 52146, "totalAmount": 225, "fraudLabel": 0}
+{"customerID": 6788385970, "basket": [0, 3, 4], "zipCode": 62629, "totalAmount": 177, "fraudLabel": 1}
+{"customerID": 1685209464, "basket": [3], "zipCode": 26250, "totalAmount": 24, "fraudLabel": 0}
+{"customerID": 3658967889, "basket": [0, 2], "zipCode": 77838, "totalAmount": 46, "fraudLabel": 0}
+{"customerID": 6409011612, "basket": [1], "zipCode": 98145, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 7540986927, "basket": [2, 3, 1, 4], "zipCode": 66874, "totalAmount": 184, "fraudLabel": 0}
+{"customerID": 2814174768, "basket": [2], "zipCode": 18336, "totalAmount": 45, "fraudLabel": 0}
+{"customerID": 9545548494, "basket": [4, 1, 2], "zipCode": 64468, "totalAmount": 219, "fraudLabel": 0}
+{"customerID": 6399077041, "basket": [0, 3], "zipCode": 84964, "totalAmount": 24, "fraudLabel": 0}
+{"customerID": 7402540947, "basket": [1, 2, 4, 4, 1, 3, 0, 4], "zipCode": 95380, "totalAmount": 392, "fraudLabel": 0}
+{"customerID": 3905169323, "basket": [1, 1, 1, 2, 3], "zipCode": 53539, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 9390142200, "basket": [0, 3, 0, 4, 2, 1], "zipCode": 20391, "totalAmount": 348, "fraudLabel": 0}
+{"customerID": 3577439806, "basket": [2, 3], "zipCode": 47395, "totalAmount": 146, "fraudLabel": 0}
+{"customerID": 5615859684, "basket": [3, 4, 4, 4, 0, 3, 3, 1, 4, 0, 4], "zipCode": 70416, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 6872269372, "basket": [4], "zipCode": 28938, "totalAmount": 47, "fraudLabel": 0}
+{"customerID": 2617485473, "basket": [0], "zipCode": 99612, "totalAmount": 65, "fraudLabel": 0}
+{"customerID": 6024067845, "basket": [2, 0, 3], "zipCode": 64251, "totalAmount": 201, "fraudLabel": 0}
+{"customerID": 6159972926, "basket": [2], "zipCode": 76411, "totalAmount": 82, "fraudLabel": 0}
+{"customerID": 5148797351, "basket": [0, 0, 3, 4], "zipCode": 94443, "totalAmount": 412, "fraudLabel": 1}
+{"customerID": 8535673430, "basket": [0, 2, 4, 4, 0, 2, 3], "zipCode": 94555, "totalAmount": 441, "fraudLabel": 0}
+{"customerID": 5802534356, "basket": [3], "zipCode": 45552, "totalAmount": 36, "fraudLabel": 0}
+{"customerID": 4999064337, "basket": [3, 4, 0], "zipCode": 59796, "totalAmount": 195, "fraudLabel": 0}
+{"customerID": 5526157526, "basket": [0, 1, 1, 3], "zipCode": 65131, "totalAmount": 208, "fraudLabel": 0}
+{"customerID": 4982450632, "basket": [0, 1], "zipCode": 51207, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 5310535994, "basket": [0], "zipCode": 45912, "totalAmount": 26, "fraudLabel": 0}
+{"customerID": 3291386538, "basket": [0, 0, 0, 4, 3, 2, 3, 3], "zipCode": 53657, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 5427239472, "basket": [1], "zipCode": 58517, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 2381006797, "basket": [1, 3, 1, 2, 1, 4, 3], "zipCode": 94443, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 5135088919, "basket": [2, 4, 1], "zipCode": 78527, "totalAmount": 294, "fraudLabel": 0}
+{"customerID": 9453363830, "basket": [1, 1, 0, 1, 0, 4, 3], "zipCode": 21343, "totalAmount": 553, "fraudLabel": 0}
+{"customerID": 5822618033, "basket": [4, 3], "zipCode": 82818, "totalAmount": 86, "fraudLabel": 0}
+{"customerID": 7544679978, "basket": [4], "zipCode": 11960, "totalAmount": 56, "fraudLabel": 0}
+{"customerID": 9069423928, "basket": [1, 3, 1, 4], "zipCode": 12632, "totalAmount": 112, "fraudLabel": 0}
+{"customerID": 7264462870, "basket": [0, 0, 0, 4, 4, 0], "zipCode": 11536, "totalAmount": 498, "fraudLabel": 0}
+{"customerID": 9006427064, "basket": [3], "zipCode": 35100, "totalAmount": 63, "fraudLabel": 0}
+{"customerID": 4400096833, "basket": [4, 2], "zipCode": 51962, "totalAmount": 102, "fraudLabel": 0}
+{"customerID": 6015853590, "basket": [2, 1, 1, 2, 2, 3, 1, 1], "zipCode": 86917, "totalAmount": 328, "fraudLabel": 0}
+{"customerID": 4977876889, "basket": [1, 1, 0, 0, 3, 1], "zipCode": 83412, "totalAmount": 198, "fraudLabel": 0}
+{"customerID": 5187935848, "basket": [2, 3, 0, 4], "zipCode": 15267, "totalAmount": 176, "fraudLabel": 0}
+{"customerID": 4254972497, "basket": [0, 4, 4, 4, 0, 1, 3, 2, 4], "zipCode": 97443, "totalAmount": 198, "fraudLabel": 0}
+{"customerID": 3768903376, "basket": [3, 0, 0, 2, 2, 3], "zipCode": 33303, "totalAmount": 234, "fraudLabel": 0}
+{"customerID": 3906791162, "basket": [1, 1, 2, 1], "zipCode": 34802, "totalAmount": 260, "fraudLabel": 0}
+{"customerID": 4431128688, "basket": [4, 1, 2, 1, 3, 4, 4], "zipCode": 10525, "totalAmount": 798, "fraudLabel": 0}
+{"customerID": 3836956710, "basket": [4, 1, 4, 0, 4, 1, 1, 1], "zipCode": 38128, "totalAmount": 544, "fraudLabel": 0}
+{"customerID": 7555211981, "basket": [2, 0, 0], "zipCode": 10175, "totalAmount": 105, "fraudLabel": 0}
+{"customerID": 9336780912, "basket": [2, 2, 4, 3, 4, 2, 2, 4, 3], "zipCode": 56932, "totalAmount": 945, "fraudLabel": 1}
+{"customerID": 5232120251, "basket": [1, 2, 4, 1, 1], "zipCode": 70712, "totalAmount": 270, "fraudLabel": 0}
+{"customerID": 1307021147, "basket": [3], "zipCode": 31402, "totalAmount": 24, "fraudLabel": 0}
+{"customerID": 1318594551, "basket": [1, 3], "zipCode": 42615, "totalAmount": 54, "fraudLabel": 0}
+{"customerID": 4052543215, "basket": [3, 1, 2, 3, 3, 4], "zipCode": 89875, "totalAmount": 324, "fraudLabel": 0}
+{"customerID": 6862795464, "basket": [3, 1, 2, 2, 0, 2, 1, 3, 4, 4, 4], "zipCode": 24285, "totalAmount": 473, "fraudLabel": 0}
+{"customerID": 2119510883, "basket": [0], "zipCode": 41483, "totalAmount": 13, "fraudLabel": 0}
+{"customerID": 7592458421, "basket": [3, 4, 3, 3, 4, 4, 0, 0, 4, 4], "zipCode": 87911, "totalAmount": 620, "fraudLabel": 1}
+{"customerID": 7237011385, "basket": [4], "zipCode": 17892, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 8133947906, "basket": [3, 4, 2, 4, 0, 2, 4, 4, 3, 4, 2], "zipCode": 66089, "totalAmount": 726, "fraudLabel": 0}
+{"customerID": 7165494496, "basket": [4, 2, 4, 3, 2, 4, 2, 4, 1, 3, 2], "zipCode": 62715, "totalAmount": 429, "fraudLabel": 0}
+{"customerID": 2610257241, "basket": [3, 1], "zipCode": 99011, "totalAmount": 94, "fraudLabel": 0}
+{"customerID": 8606100151, "basket": [3], "zipCode": 58853, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 7741747007, "basket": [2, 0, 2, 4, 2], "zipCode": 10207, "totalAmount": 365, "fraudLabel": 0}
+{"customerID": 6518962436, "basket": [2, 4, 0, 1], "zipCode": 21191, "totalAmount": 48, "fraudLabel": 0}
+{"customerID": 8938340909, "basket": [4, 3, 2, 0, 1, 4, 4], "zipCode": 85570, "totalAmount": 322, "fraudLabel": 0}
+{"customerID": 1312720561, "basket": [4, 2, 0], "zipCode": 86874, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 9349219711, "basket": [1, 2, 1, 2], "zipCode": 44427, "totalAmount": 232, "fraudLabel": 0}
+{"customerID": 8834600523, "basket": [4], "zipCode": 86746, "totalAmount": 29, "fraudLabel": 0}
+{"customerID": 7051834297, "basket": [4], "zipCode": 30043, "totalAmount": 106, "fraudLabel": 1}
+{"customerID": 5502541447, "basket": [0, 2, 4], "zipCode": 83403, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 3183264983, "basket": [1, 1, 2, 2, 3], "zipCode": 92350, "totalAmount": 420, "fraudLabel": 0}
+{"customerID": 6981647129, "basket": [4], "zipCode": 61408, "totalAmount": 28, "fraudLabel": 0}
+{"customerID": 9069496480, "basket": [1, 0, 1, 2, 0, 3, 0, 2], "zipCode": 32846, "totalAmount": 152, "fraudLabel": 0}
+{"customerID": 1396526603, "basket": [2, 2, 3, 0, 3], "zipCode": 59462, "totalAmount": 265, "fraudLabel": 0}
+{"customerID": 6648406790, "basket": [0, 0, 3, 3, 4], "zipCode": 25816, "totalAmount": 440, "fraudLabel": 0}
+{"customerID": 6872322130, "basket": [1, 2, 2, 1, 1], "zipCode": 80266, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 9333001733, "basket": [2, 2, 4, 0, 2, 0, 4, 4, 1], "zipCode": 52628, "totalAmount": 1017, "fraudLabel": 0}
+{"customerID": 2233236654, "basket": [1], "zipCode": 22255, "totalAmount": 17, "fraudLabel": 0}
+{"customerID": 4493344914, "basket": [2, 2, 2], "zipCode": 91187, "totalAmount": 333, "fraudLabel": 0}
+{"customerID": 9747553135, "basket": [1, 0, 4, 2, 0], "zipCode": 31182, "totalAmount": 395, "fraudLabel": 0}
+{"customerID": 2656987533, "basket": [1, 4, 1, 0, 1, 1, 3, 3, 0], "zipCode": 55320, "totalAmount": 558, "fraudLabel": 0}
+{"customerID": 5083152589, "basket": [0, 2, 4, 2, 3, 3, 1, 3, 2, 0, 4], "zipCode": 89801, "totalAmount": 748, "fraudLabel": 0}
+{"customerID": 2115045033, "basket": [0, 2, 1, 3, 4, 3, 4, 1], "zipCode": 46413, "totalAmount": 648, "fraudLabel": 0}
+{"customerID": 6083425166, "basket": [1, 4], "zipCode": 22491, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 9239170275, "basket": [4, 4, 4, 2, 1, 4], "zipCode": 10593, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 4177104076, "basket": [1, 0], "zipCode": 63337, "totalAmount": 36, "fraudLabel": 0}
+{"customerID": 4099095646, "basket": [3, 4, 4, 2, 3], "zipCode": 78344, "totalAmount": 345, "fraudLabel": 0}
+{"customerID": 8280312751, "basket": [4, 1, 2, 3], "zipCode": 78974, "totalAmount": 172, "fraudLabel": 0}
+{"customerID": 1891142969, "basket": [4, 0, 0, 3, 4, 3, 4, 1, 3, 2], "zipCode": 93655, "totalAmount": 540, "fraudLabel": 0}
+{"customerID": 5868318584, "basket": [3, 0, 0, 3, 2, 2, 0], "zipCode": 81153, "totalAmount": 546, "fraudLabel": 0}
+{"customerID": 3375226454, "basket": [1, 4, 1], "zipCode": 85790, "totalAmount": 66, "fraudLabel": 0}
+{"customerID": 4457172935, "basket": [3, 3, 3, 3, 2], "zipCode": 19696, "totalAmount": 155, "fraudLabel": 0}
+{"customerID": 7894683698, "basket": [0, 2, 0, 3], "zipCode": 38294, "totalAmount": 404, "fraudLabel": 0}
+{"customerID": 5566528304, "basket": [2], "zipCode": 28599, "totalAmount": 16, "fraudLabel": 0}
+{"customerID": 1723694353, "basket": [1], "zipCode": 74964, "totalAmount": 62, "fraudLabel": 0}
+{"customerID": 6475279976, "basket": [3, 4, 3, 0, 2], "zipCode": 11381, "totalAmount": 495, "fraudLabel": 0}
+{"customerID": 4585179034, "basket": [4, 3, 0, 4, 4, 3], "zipCode": 90370, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 9727029032, "basket": [1, 1, 1, 4, 1, 0], "zipCode": 14125, "totalAmount": 378, "fraudLabel": 0}
+{"customerID": 2870197606, "basket": [4, 4, 0, 3, 2], "zipCode": 79284, "totalAmount": 155, "fraudLabel": 0}
+{"customerID": 9589666475, "basket": [2, 0, 4, 3, 3, 0], "zipCode": 29868, "totalAmount": 204, "fraudLabel": 0}
+{"customerID": 4768401990, "basket": [4, 1, 3, 4, 4, 0], "zipCode": 81270, "totalAmount": 324, "fraudLabel": 0}
+{"customerID": 5458211170, "basket": [4, 0, 2, 1, 2, 2, 3], "zipCode": 80227, "totalAmount": 287, "fraudLabel": 0}
+{"customerID": 5636029125, "basket": [3], "zipCode": 61036, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 6224548730, "basket": [1], "zipCode": 88885, "totalAmount": 28, "fraudLabel": 0}
+{"customerID": 9046879678, "basket": [3, 0, 3], "zipCode": 30495, "totalAmount": 138, "fraudLabel": 0}
+{"customerID": 7804137691, "basket": [3, 3, 0, 4, 0], "zipCode": 73847, "totalAmount": 235, "fraudLabel": 0}
+{"customerID": 3874623011, "basket": [1, 2, 0, 2, 1, 3], "zipCode": 58850, "totalAmount": 432, "fraudLabel": 0}
+{"customerID": 1271637728, "basket": [0, 1, 2, 4, 4], "zipCode": 42954, "totalAmount": 190, "fraudLabel": 0}
+{"customerID": 7876714333, "basket": [4], "zipCode": 69446, "totalAmount": 27, "fraudLabel": 0}
+{"customerID": 4207862018, "basket": [2, 2, 2, 3], "zipCode": 67407, "totalAmount": 112, "fraudLabel": 0}
+{"customerID": 8003109091, "basket": [4, 3, 4], "zipCode": 48126, "totalAmount": 147, "fraudLabel": 0}
+{"customerID": 7977153310, "basket": [2, 0, 2], "zipCode": 31506, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 4584805272, "basket": [0, 1, 1, 1], "zipCode": 27521, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 3288917686, "basket": [4, 1, 0, 4, 1, 4], "zipCode": 19720, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 8312342212, "basket": [3, 1, 2, 2, 4, 1, 2], "zipCode": 11670, "totalAmount": 224, "fraudLabel": 0}
+{"customerID": 4017643497, "basket": [4, 0, 3, 0, 3], "zipCode": 20173, "totalAmount": 275, "fraudLabel": 0}
+{"customerID": 6238801181, "basket": [4, 0, 1, 3, 3, 2, 4, 0, 1], "zipCode": 52862, "totalAmount": 504, "fraudLabel": 0}
+{"customerID": 1241147944, "basket": [0, 2], "zipCode": 77666, "totalAmount": 160, "fraudLabel": 0}
+{"customerID": 7084238967, "basket": [3, 4, 1], "zipCode": 21203, "totalAmount": 267, "fraudLabel": 1}
+{"customerID": 5507854089, "basket": [0, 0], "zipCode": 21048, "totalAmount": 88, "fraudLabel": 0}
+{"customerID": 2559765303, "basket": [3], "zipCode": 80389, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 5653114265, "basket": [2, 3], "zipCode": 91157, "totalAmount": 112, "fraudLabel": 0}
+{"customerID": 4112851403, "basket": [2, 4, 1, 3, 1, 4], "zipCode": 73160, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 6609036427, "basket": [1, 1, 3, 4, 2], "zipCode": 60941, "totalAmount": 245, "fraudLabel": 0}
+{"customerID": 8826205712, "basket": [1, 4, 0, 4, 3], "zipCode": 59820, "totalAmount": 120, "fraudLabel": 0}
+{"customerID": 1902467612, "basket": [3, 3, 4, 4, 4, 1, 1], "zipCode": 96440, "totalAmount": 161, "fraudLabel": 0}
+{"customerID": 7316189728, "basket": [3, 0, 2, 2, 1, 3, 2, 1], "zipCode": 13362, "totalAmount": 216, "fraudLabel": 0}
+{"customerID": 2232303219, "basket": [0, 4], "zipCode": 41880, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 4802276672, "basket": [0, 1, 4, 3], "zipCode": 24153, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 6197856161, "basket": [4, 4, 2, 4, 4, 0], "zipCode": 19590, "totalAmount": 372, "fraudLabel": 0}
+{"customerID": 5420336984, "basket": [4, 3, 0, 0, 0, 3, 1], "zipCode": 42380, "totalAmount": 133, "fraudLabel": 0}
+{"customerID": 1878070661, "basket": [2, 2, 1, 0, 0, 2], "zipCode": 90512, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 9405169177, "basket": [0], "zipCode": 58517, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 6566196761, "basket": [2, 4, 1, 0, 2, 2], "zipCode": 33358, "totalAmount": 216, "fraudLabel": 0}
+{"customerID": 2093200043, "basket": [4, 0, 1], "zipCode": 77637, "totalAmount": 159, "fraudLabel": 0}
+{"customerID": 6229678761, "basket": [2, 3, 0, 2], "zipCode": 31405, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 2652415219, "basket": [2], "zipCode": 55340, "totalAmount": 87, "fraudLabel": 0}
+{"customerID": 2987033063, "basket": [1], "zipCode": 21164, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 9028473500, "basket": [4, 3, 2, 3], "zipCode": 85655, "totalAmount": 108, "fraudLabel": 0}
+{"customerID": 8331335773, "basket": [2], "zipCode": 48122, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 7120850129, "basket": [1, 4, 4], "zipCode": 87461, "totalAmount": 75, "fraudLabel": 1}
+{"customerID": 6408180251, "basket": [1, 3, 3, 3], "zipCode": 53063, "totalAmount": 432, "fraudLabel": 0}
+{"customerID": 7460833694, "basket": [3], "zipCode": 87939, "totalAmount": 42, "fraudLabel": 0}
+{"customerID": 8639782236, "basket": [4, 0, 4, 3, 3, 1], "zipCode": 45021, "totalAmount": 354, "fraudLabel": 0}
+{"customerID": 6698780791, "basket": [0, 3, 4, 3, 0, 0], "zipCode": 27653, "totalAmount": 474, "fraudLabel": 0}
+{"customerID": 7201991689, "basket": [0, 2, 4, 3, 1, 0, 2, 2], "zipCode": 18387, "totalAmount": 576, "fraudLabel": 0}
+{"customerID": 1448724786, "basket": [3, 4], "zipCode": 19880, "totalAmount": 118, "fraudLabel": 0}
+{"customerID": 8166154511, "basket": [0, 4, 4, 3], "zipCode": 90856, "totalAmount": 276, "fraudLabel": 0}
+{"customerID": 1120831699, "basket": [3, 1, 0], "zipCode": 97422, "totalAmount": 123, "fraudLabel": 0}
+{"customerID": 6069900943, "basket": [0], "zipCode": 83976, "totalAmount": 38, "fraudLabel": 0}
+{"customerID": 5660064549, "basket": [0], "zipCode": 44455, "totalAmount": 54, "fraudLabel": 1}
+{"customerID": 7914936384, "basket": [0, 1, 1, 0, 4, 4], "zipCode": 26894, "totalAmount": 216, "fraudLabel": 0}
+{"customerID": 2877989850, "basket": [3, 2, 1, 1, 3], "zipCode": 84903, "totalAmount": 290, "fraudLabel": 0}
+{"customerID": 7068098293, "basket": [2, 1, 0, 1, 0, 3], "zipCode": 39561, "totalAmount": 492, "fraudLabel": 0}
+{"customerID": 6003247060, "basket": [4, 3, 1, 4], "zipCode": 96500, "totalAmount": 152, "fraudLabel": 1}
+{"customerID": 9560212481, "basket": [4, 0, 4, 3, 0, 1, 3, 4], "zipCode": 36865, "totalAmount": 312, "fraudLabel": 0}
+{"customerID": 9985760856, "basket": [4, 0], "zipCode": 54938, "totalAmount": 106, "fraudLabel": 0}
+{"customerID": 5070632458, "basket": [0, 4, 4, 3, 4], "zipCode": 20311, "totalAmount": 225, "fraudLabel": 0}
+{"customerID": 2489916102, "basket": [4, 4, 3, 0, 3, 3, 3, 1, 3], "zipCode": 76219, "totalAmount": 639, "fraudLabel": 0}
+{"customerID": 6845588203, "basket": [2, 2, 2, 2, 3], "zipCode": 26145, "totalAmount": 255, "fraudLabel": 0}
+{"customerID": 6792774327, "basket": [3, 4, 0, 3, 1, 0, 4], "zipCode": 61735, "totalAmount": 525, "fraudLabel": 0}
+{"customerID": 4134732550, "basket": [4, 2, 4, 4, 1, 2], "zipCode": 65185, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 4181379412, "basket": [0, 2, 3, 4, 3, 4, 1, 3], "zipCode": 30562, "totalAmount": 592, "fraudLabel": 0}
+{"customerID": 5459152702, "basket": [2, 3, 2, 2, 1, 3], "zipCode": 55539, "totalAmount": 390, "fraudLabel": 0}
+{"customerID": 2518655187, "basket": [2, 2, 4, 4, 0, 0, 0, 3, 1], "zipCode": 19280, "totalAmount": 783, "fraudLabel": 0}
+{"customerID": 9410330753, "basket": [0, 4, 1], "zipCode": 20240, "totalAmount": 186, "fraudLabel": 0}
+{"customerID": 6247168695, "basket": [0, 3, 0], "zipCode": 16260, "totalAmount": 96, "fraudLabel": 0}
+{"customerID": 1284807393, "basket": [4, 3, 1, 4, 4, 2], "zipCode": 42055, "totalAmount": 282, "fraudLabel": 0}
+{"customerID": 1338152962, "basket": [1, 1, 3], "zipCode": 62521, "totalAmount": 132, "fraudLabel": 0}
+{"customerID": 7596991615, "basket": [4, 3, 3, 4, 3], "zipCode": 48166, "totalAmount": 440, "fraudLabel": 1}
+{"customerID": 9510582678, "basket": [1], "zipCode": 15636, "totalAmount": 95, "fraudLabel": 0}
+{"customerID": 9395775471, "basket": [0], "zipCode": 47834, "totalAmount": 35, "fraudLabel": 0}
+{"customerID": 7889144473, "basket": [4], "zipCode": 52307, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 6774795397, "basket": [1, 0, 2, 4, 2, 3], "zipCode": 62700, "totalAmount": 498, "fraudLabel": 0}
+{"customerID": 1738766060, "basket": [4, 4, 4, 4, 2, 4, 0], "zipCode": 87684, "totalAmount": 476, "fraudLabel": 1}
+{"customerID": 2369981067, "basket": [1, 2, 2, 4, 0, 1], "zipCode": 12083, "totalAmount": 534, "fraudLabel": 0}
+{"customerID": 5765803914, "basket": [0, 2, 3, 1, 4, 0, 2, 4], "zipCode": 94905, "totalAmount": 680, "fraudLabel": 0}
+{"customerID": 6341572284, "basket": [4], "zipCode": 48528, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 6220009810, "basket": [4, 2, 2, 1, 2], "zipCode": 85027, "totalAmount": 235, "fraudLabel": 0}
+{"customerID": 6415755330, "basket": [3, 1, 4, 1], "zipCode": 48359, "totalAmount": 168, "fraudLabel": 0}
+{"customerID": 1070344617, "basket": [3, 2, 1], "zipCode": 64704, "totalAmount": 237, "fraudLabel": 0}
+{"customerID": 5026218119, "basket": [4, 4, 3, 2], "zipCode": 76825, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 4071592284, "basket": [1, 3, 0, 1, 1, 1], "zipCode": 73172, "totalAmount": 156, "fraudLabel": 0}
+{"customerID": 4061651393, "basket": [4, 1, 4, 3, 4, 4, 4, 2, 0], "zipCode": 65839, "totalAmount": 891, "fraudLabel": 0}
+{"customerID": 2402698942, "basket": [0, 4, 0], "zipCode": 13751, "totalAmount": 201, "fraudLabel": 0}
+{"customerID": 3424065818, "basket": [4, 3, 2, 3, 2, 4, 0, 1, 2], "zipCode": 69181, "totalAmount": 90, "fraudLabel": 0}
+{"customerID": 8546924697, "basket": [0, 0, 0, 0, 3, 0, 0], "zipCode": 32147, "totalAmount": 77, "fraudLabel": 0}
+{"customerID": 7915636540, "basket": [4, 3, 2], "zipCode": 37792, "totalAmount": 123, "fraudLabel": 0}
+{"customerID": 3089020191, "basket": [2, 2, 3], "zipCode": 31261, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 7631060236, "basket": [2, 3, 2, 4, 4, 3, 0], "zipCode": 83898, "totalAmount": 490, "fraudLabel": 0}
+{"customerID": 5621619960, "basket": [1, 1, 0, 3, 2, 4, 1], "zipCode": 49879, "totalAmount": 525, "fraudLabel": 0}
+{"customerID": 7420382080, "basket": [1, 1, 3, 0, 1], "zipCode": 79493, "totalAmount": 365, "fraudLabel": 0}
+{"customerID": 5982785580, "basket": [4, 2, 4, 2, 2], "zipCode": 46102, "totalAmount": 250, "fraudLabel": 0}
+{"customerID": 5905887082, "basket": [4, 4, 1, 1, 0, 1, 4], "zipCode": 78425, "totalAmount": 189, "fraudLabel": 0}
+{"customerID": 4327679140, "basket": [4, 0, 0], "zipCode": 37060, "totalAmount": 210, "fraudLabel": 0}
+{"customerID": 5365762006, "basket": [3, 1, 1], "zipCode": 48031, "totalAmount": 186, "fraudLabel": 0}
+{"customerID": 7432845506, "basket": [3], "zipCode": 51022, "totalAmount": 30, "fraudLabel": 0}
+{"customerID": 8237403017, "basket": [1, 0, 3, 4, 2, 2, 4, 2, 0], "zipCode": 85704, "totalAmount": 828, "fraudLabel": 0}
+{"customerID": 7387509687, "basket": [4], "zipCode": 58324, "totalAmount": 17, "fraudLabel": 0}
+{"customerID": 2565420786, "basket": [2, 0, 4, 2], "zipCode": 36153, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 4262541231, "basket": [0, 1], "zipCode": 94967, "totalAmount": 100, "fraudLabel": 0}
+{"customerID": 4092762497, "basket": [0, 4, 2, 3], "zipCode": 54503, "totalAmount": 212, "fraudLabel": 1}
+{"customerID": 2103142091, "basket": [3, 4, 1, 4, 4, 4], "zipCode": 36369, "totalAmount": 252, "fraudLabel": 0}
+{"customerID": 6078522353, "basket": [1], "zipCode": 10189, "totalAmount": 58, "fraudLabel": 0}
+{"customerID": 9040841059, "basket": [4, 2, 1, 1, 0, 3, 2, 4], "zipCode": 38507, "totalAmount": 552, "fraudLabel": 0}
+{"customerID": 4966175399, "basket": [1, 4, 2, 1, 1, 1], "zipCode": 94632, "totalAmount": 630, "fraudLabel": 0}
+{"customerID": 4315072427, "basket": [3], "zipCode": 68210, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 2796378724, "basket": [1, 0, 3, 0, 0, 0, 3], "zipCode": 37746, "totalAmount": 133, "fraudLabel": 0}
+{"customerID": 8556605801, "basket": [3, 1, 2, 3, 3], "zipCode": 41620, "totalAmount": 470, "fraudLabel": 0}
+{"customerID": 6308718161, "basket": [0, 1, 2, 4, 4], "zipCode": 89543, "totalAmount": 305, "fraudLabel": 0}
+{"customerID": 7415677313, "basket": [4], "zipCode": 77672, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 5643913805, "basket": [4, 0, 1, 4, 0, 1, 0], "zipCode": 84291, "totalAmount": 546, "fraudLabel": 0}
+{"customerID": 9048607297, "basket": [3, 1, 3, 3, 1, 4, 2, 1, 0, 3], "zipCode": 45511, "totalAmount": 900, "fraudLabel": 0}
+{"customerID": 5676558160, "basket": [0, 1, 0, 2, 4, 0, 0], "zipCode": 19131, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 2386511742, "basket": [3], "zipCode": 19457, "totalAmount": 48, "fraudLabel": 0}
+{"customerID": 1127153348, "basket": [4, 3, 0, 0], "zipCode": 98432, "totalAmount": 236, "fraudLabel": 0}
+{"customerID": 7616116484, "basket": [0, 4, 1, 2, 3, 3], "zipCode": 26483, "totalAmount": 60, "fraudLabel": 0}
+{"customerID": 7397454942, "basket": [0, 4, 1], "zipCode": 74170, "totalAmount": 144, "fraudLabel": 0}
+{"customerID": 2482685086, "basket": [1, 0, 2, 0], "zipCode": 50243, "totalAmount": 112, "fraudLabel": 0}
+{"customerID": 8571301936, "basket": [2, 4], "zipCode": 27321, "totalAmount": 134, "fraudLabel": 0}
+{"customerID": 9698769208, "basket": [0], "zipCode": 32805, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 5374218015, "basket": [4, 1, 2, 1, 1, 1], "zipCode": 46517, "totalAmount": 222, "fraudLabel": 0}
+{"customerID": 2287060348, "basket": [4, 0, 0, 0], "zipCode": 52243, "totalAmount": 236, "fraudLabel": 0}
+{"customerID": 3466535786, "basket": [3, 1, 0, 0, 4, 3], "zipCode": 57679, "totalAmount": 480, "fraudLabel": 0}
+{"customerID": 4191816997, "basket": [0, 0, 2, 4], "zipCode": 95545, "totalAmount": 104, "fraudLabel": 0}
+{"customerID": 6652960175, "basket": [4, 4, 0], "zipCode": 46454, "totalAmount": 75, "fraudLabel": 0}
+{"customerID": 6846716209, "basket": [3, 2, 2, 2, 2], "zipCode": 87598, "totalAmount": 140, "fraudLabel": 0}
+{"customerID": 5964286939, "basket": [3, 3, 0, 2, 0], "zipCode": 31035, "totalAmount": 295, "fraudLabel": 0}
+{"customerID": 3034952262, "basket": [3, 4, 3, 2], "zipCode": 24148, "totalAmount": 288, "fraudLabel": 0}
+{"customerID": 9690973298, "basket": [4, 4, 2, 0, 4, 2, 0, 3, 2], "zipCode": 20292, "totalAmount": 288, "fraudLabel": 0}
+{"customerID": 2390389021, "basket": [1, 1, 2, 1, 4, 1, 2, 0, 1, 1, 0], "zipCode": 57476, "totalAmount": 473, "fraudLabel": 0}
+{"customerID": 6926867375, "basket": [4, 3, 1, 4, 2, 1, 4, 1, 0], "zipCode": 82370, "totalAmount": 603, "fraudLabel": 0}
+{"customerID": 9711125975, "basket": [1], "zipCode": 31681, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 4670088806, "basket": [4, 2, 3], "zipCode": 33773, "totalAmount": 84, "fraudLabel": 0}
+{"customerID": 9815440659, "basket": [1], "zipCode": 85199, "totalAmount": 10, "fraudLabel": 0}
+{"customerID": 5181908372, "basket": [1, 2, 4, 1, 4, 3, 0, 2], "zipCode": 41493, "totalAmount": 672, "fraudLabel": 0}
+{"customerID": 7363902324, "basket": [3, 3, 4, 4, 0], "zipCode": 27249, "totalAmount": 300, "fraudLabel": 0}
+{"customerID": 7135392058, "basket": [1], "zipCode": 88880, "totalAmount": 69, "fraudLabel": 0}
+{"customerID": 4423101293, "basket": [3, 2, 4, 4], "zipCode": 99162, "totalAmount": 380, "fraudLabel": 0}
+{"customerID": 5061397311, "basket": [0, 2, 4, 2], "zipCode": 85178, "totalAmount": 104, "fraudLabel": 0}
+{"customerID": 5026374214, "basket": [3, 4, 3], "zipCode": 46052, "totalAmount": 72, "fraudLabel": 0}
+{"customerID": 9406211447, "basket": [1, 1, 4, 4, 1, 0, 0, 1, 2, 3, 3, 4], "zipCode": 25487, "totalAmount": 408, "fraudLabel": 0}
+{"customerID": 5589227493, "basket": [4, 3, 2, 0, 3, 4, 3, 1], "zipCode": 55353, "totalAmount": 848, "fraudLabel": 0}
+{"customerID": 6183273308, "basket": [2, 0, 4, 0, 0, 3, 0, 3, 3, 1], "zipCode": 33426, "totalAmount": 760, "fraudLabel": 0}
+{"customerID": 9349018414, "basket": [1], "zipCode": 49642, "totalAmount": 80, "fraudLabel": 0}
+{"customerID": 8144480069, "basket": [4, 4, 4, 1, 1, 3], "zipCode": 26993, "totalAmount": 228, "fraudLabel": 0}
+{"customerID": 5547087340, "basket": [4, 4, 3, 4, 1, 0, 3, 2], "zipCode": 29440, "totalAmount": 584, "fraudLabel": 0}
+{"customerID": 9612109163, "basket": [3, 4, 0, 0, 1, 3, 4, 4, 2], "zipCode": 67353, "totalAmount": 405, "fraudLabel": 0}
+{"customerID": 6435257426, "basket": [1, 4, 0, 2, 0, 1], "zipCode": 92760, "totalAmount": 678, "fraudLabel": 0}
+{"customerID": 2247947996, "basket": [0], "zipCode": 15948, "totalAmount": 52, "fraudLabel": 0}
+{"customerID": 4714247300, "basket": [2, 3, 4, 3, 4, 3, 3, 4], "zipCode": 47604, "totalAmount": 216, "fraudLabel": 0}
+{"customerID": 3002470988, "basket": [1, 0], "zipCode": 75313, "totalAmount": 20, "fraudLabel": 0}
+{"customerID": 1654528948, "basket": [4, 3, 4, 4, 3, 2, 4, 3, 2], "zipCode": 14368, "totalAmount": 207, "fraudLabel": 0}
+{"customerID": 9602964478, "basket": [3, 3, 4, 1, 1, 3, 0, 0], "zipCode": 25038, "totalAmount": 256, "fraudLabel": 0}
+{"customerID": 1579202914, "basket": [1, 0, 3, 0, 4, 1, 0, 4, 3, 4], "zipCode": 43127, "totalAmount": 830, "fraudLabel": 0}
+{"customerID": 2907965523, "basket": [1, 0, 0, 0, 1, 0, 2], "zipCode": 72062, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 7328931886, "basket": [1], "zipCode": 43768, "totalAmount": 17, "fraudLabel": 0}
+{"customerID": 7719696800, "basket": [0, 2, 2, 3, 4, 0, 0], "zipCode": 53305, "totalAmount": 70, "fraudLabel": 0}
+{"customerID": 2116601304, "basket": [0, 1, 4, 0, 4, 1, 4, 4, 2, 1, 4], "zipCode": 95165, "totalAmount": 1133, "fraudLabel": 1}
+{"customerID": 5439295565, "basket": [0, 3, 2, 1, 1, 3, 4, 1, 2, 0, 2], "zipCode": 56986, "totalAmount": 1133, "fraudLabel": 0}
+{"customerID": 6525959684, "basket": [0, 2, 1, 0, 2, 1], "zipCode": 93922, "totalAmount": 516, "fraudLabel": 0}
+{"customerID": 7486942051, "basket": [1, 2, 0, 4, 0, 0, 4, 3], "zipCode": 58892, "totalAmount": 640, "fraudLabel": 0}
+{"customerID": 7459265215, "basket": [4, 4, 1, 4, 3, 2, 1, 0], "zipCode": 87473, "totalAmount": 504, "fraudLabel": 0}
+{"customerID": 1266873745, "basket": [1, 0, 4, 3, 4], "zipCode": 35617, "totalAmount": 150, "fraudLabel": 0}
+{"customerID": 4285511864, "basket": [0, 3, 2, 2, 4, 0], "zipCode": 90534, "totalAmount": 570, "fraudLabel": 0}
+{"customerID": 2538196803, "basket": [4], "zipCode": 56699, "totalAmount": 40, "fraudLabel": 0}
+{"customerID": 2949400351, "basket": [0], "zipCode": 66659, "totalAmount": 23, "fraudLabel": 0}
+{"customerID": 1388902342, "basket": [2, 3, 2, 2, 1, 4], "zipCode": 96123, "totalAmount": 282, "fraudLabel": 0}
+{"customerID": 1401954077, "basket": [3, 3, 2, 3, 0], "zipCode": 90804, "totalAmount": 200, "fraudLabel": 0}
+{"customerID": 4240673613, "basket": [4, 2, 4, 4, 2, 0], "zipCode": 94575, "totalAmount": 192, "fraudLabel": 0}
+{"customerID": 2427112604, "basket": [3, 3, 0, 3, 3, 4], "zipCode": 22957, "totalAmount": 558, "fraudLabel": 1}
+{"customerID": 3406453806, "basket": [4, 4, 3], "zipCode": 99516, "totalAmount": 360, "fraudLabel": 0}
+{"customerID": 4594827644, "basket": [1, 4, 3, 3, 2, 0, 3, 0, 3], "zipCode": 38086, "totalAmount": 612, "fraudLabel": 0}
+{"customerID": 4906668130, "basket": [1, 1, 2, 2, 4], "zipCode": 60354, "totalAmount": 110, "fraudLabel": 0}
+{"customerID": 5447879049, "basket": [1, 3, 1, 2, 2, 1], "zipCode": 14224, "totalAmount": 372, "fraudLabel": 0}
+{"customerID": 8441993614, "basket": [4, 2, 4, 3, 4, 0, 4], "zipCode": 86522, "totalAmount": 539, "fraudLabel": 0}
+{"customerID": 6436124041, "basket": [3], "zipCode": 23836, "totalAmount": 44, "fraudLabel": 0}
+{"customerID": 4332622458, "basket": [2, 1, 0], "zipCode": 56392, "totalAmount": 36, "fraudLabel": 0}
