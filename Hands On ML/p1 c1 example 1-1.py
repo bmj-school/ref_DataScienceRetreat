@@ -21,6 +21,8 @@ warnings.filterwarnings(action="ignore", module="scipy", message="^internal gels
 #plt.rcParams['xtick.labelsize'] = 12
 #plt.rcParams['ytick.labelsize'] = 12
 
+sns.set(style="ticks")
+
 
 #%% ===========================================================================
 #  Paths
@@ -72,6 +74,27 @@ gdp_per_capita = pd.read_csv(gdp_fname,
 
 country_stats = prepare_country_stats(oecd_bli, gdp_per_capita)
 #country_stats.dtypes
+
+#%% Scatter
+
+#sns.pairplot(df, hue="species")
+sns.pairplot(country_stats)
+
+#%% Normalize, histogram
+scaler = sk.preprocessing.StandardScaler().fit(df)
+print(scaler)
+scaler.mean_
+scaler.scale_
+df2 = pd.DataFrame(scaler.transform(df),columns=df.columns, index=df.index)
+
+sns.pairplot(df2)
+
+def norm_df(df):
+    return pd.DataFrame(scaler.transform(df),columns=df.columns, index=df.index)
+
+country_stats_norm = norm_df(country_stats)
+
+#%% Scatter plot
 
 X = np.c_[country_stats["GDP per capita"]]
 y = np.c_[country_stats["Life satisfaction"]]
