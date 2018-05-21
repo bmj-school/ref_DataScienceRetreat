@@ -63,45 +63,48 @@ def fetch_housing_data(source_url, path_data):
 df = pd.read_csv(os.path.join(path_data, "housing.csv"))
 logger.info("Loaded")
 
-#%% DATA PREPARATION
+#%% ===========================================================================
+#  Data Preparation
+# =============================================================================
 
-# Create income code column
+# Add some attributes
+df['rooms_per_house'] = df['total_rooms']/df['households']
+df['bedrooms_per_room'] = df['total_bedrooms']/df['total_rooms']
+df['population_per_household'] = df['population']/df['households']
+
+# Create income code column for classifying income for a STRATIFIED split
 df['income'] = np.ceil(df['median_income']/1.5)
 df['income'].where(df['income'] < 5, 5.0, inplace = True)
 
 # Sklearn Split object over this category to ensure representative sampling
 split = sk.model_selection.StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
 
-# Perform split
+# Perform stratified split
 for train_i, test_i in split.split(df, df['income']):
     df_train = df.loc[train_i]
     df_test = df.loc[test_i]
-df['income'].value_counts() / len(df)
-df_train['income'].value_counts() / len(df_train)
+original_split_percent = df['income'].value_counts() / len(df)*100
+train_split_percent = df_train['income'].value_counts() / len(df_train)*100
+compare = pd.DataFrame([original_split_percent, train_split_percent]).transpose()
+compare.columns = ['original','split']
+compare['diff'] = compare['original'] - compare['split']
 
-# Drop this category
+# Drop this stratification category
 df_train.drop(["income"],axis=1,inplace=True)
 df_test.drop(["income"],axis=1,inplace=True)
 
 logger.info(f"Test: {len(df_test)} records")
 logger.info(f"Train: {len(df_train)} records")
 
-df = df_train.copy()
+y_tr = df_train["median_house_value"].copy()
+X_tr = df_train.drop("median_house_value", axis=1) # drop labels for training set
 
-housing_labels = df_train["median_house_value"].copy()
-df = df_train.drop("median_house_value", axis=1) # drop labels for training set
+y_test = df_test["median_house_value"].copy()
+X_test = df_test.drop("median_house_value", axis=1) # drop labels for training set
 
-df_numeric = df._get_numeric_data()
-
-
-num_attribs= list(df_numeric)
-cat_attribs = ['ocean_proximity']
-
-
-#%% FEATURE ENGINEERING: Add some attributes
-df['rooms_per_house'] = df['total_rooms']/df['households']
-df['bedrooms_per_room'] = df['total_bedrooms']/df['total_rooms']
-df['population_per_household'] = df['population']/df['households']
+#df_numeric = df._get_numeric_data()
+#num_attribs= list(df_numeric)
+#cat_attribs = ['ocean_proximity']
 
 
 
