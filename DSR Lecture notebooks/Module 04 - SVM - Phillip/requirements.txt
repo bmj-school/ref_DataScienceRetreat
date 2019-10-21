@@ -7,7 +7,7 @@ seaborn==0.8
 jupyter==1.0.0
 pandas==0.20.3
 ipython==5.4.1
-nltk==3.2.4
+nltk==3.4.5
 Flask-RESTful==0.3.6
 #fastparquet==0.1.2
 #cvxpy==0.4.10
