@@ -6,7 +6,7 @@ matplotlib==2.0.2
 seaborn==0.8
 jupyter==1.0.0
 pandas==0.20.3
-ipython==5.4.1
+ipython==7.16.3
 nltk==3.2.4
 Flask-RESTful==0.3.6
 #fastparquet==0.1.2
